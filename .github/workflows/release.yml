@@ -46,8 +46,9 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            apps/desktop/release/**/*.exe
-            apps/desktop/release/**/*.AppImage
-            apps/desktop/release/**/*.deb
+            apps/desktop/release/powerlift-meet-Setup-*.exe
+            apps/desktop/release/powerlift-meet-*-portable.exe
+            apps/desktop/release/*.AppImage
+            apps/desktop/release/*.deb
           draft: true
           generate_release_notes: true
