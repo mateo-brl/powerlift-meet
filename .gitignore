@@ -1,0 +1,28 @@
+# Dépendances
+node_modules/
+
+# Build
+dist/
+out/
+build/
+*.tsbuildinfo
+coverage/
+
+# Electron packaging
+release/
+apps/desktop/dist-electron/
+
+# Données de compétition — JAMAIS commitées (données personnelles : noms, licences, dates)
+*.xlsm
+*.xlsx
+!docs/**/*.xlsx
+data/
+sandbox/
+
+# Logs / divers
+*.log
+.DS_Store
+.idea/
+.vscode/
+.env
+.env.local
