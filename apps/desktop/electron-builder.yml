@@ -9,10 +9,12 @@ directories:
 files:
   - dist-electron/**/*
   - '!**/*.map'
-# Les paquets du monorepo sont déjà compilés (dist/) ; on les embarque.
+# Les paquets du monorepo sont déjà compilés et bundlés dans dist-electron.
 extraMetadata:
   main: dist-electron/main/index.js
 npmRebuild: false
+# Nom d'artefact basé sur productName (jamais sur le nom de paquet) pour des fichiers propres.
+artifactName: ${productName}-${version}-${arch}.${ext}
 win:
   target:
     - target: nsis
@@ -23,11 +25,13 @@ nsis:
   oneClick: false
   allowToChangeInstallationDirectory: true
   artifactName: ${productName}-Setup-${version}.${ext}
+portable:
+  artifactName: ${productName}-${version}-portable.${ext}
 linux:
   target:
     - AppImage
     - deb
   category: Utility
   maintainer: Mateo Baril
-appImage:
+  executableName: powerlift-meet
   artifactName: ${productName}-${version}.${ext}
