@@ -1,6 +1,8 @@
 appId: com.mateobrl.powerliftmeet
 productName: powerlift-meet
 copyright: © Mateo Baril — GPL-3.0
+# Version figée : evite la détection d'Electron via node_modules (hoisté en monorepo).
+electronVersion: 33.4.11
 directories:
   output: release
   buildResources: build
