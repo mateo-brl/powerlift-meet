@@ -116,9 +116,14 @@ body {
 }
 .feuille .col-name {
   text-align: left;
-  width: 30%;
+  width: 40%;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+.feuille .club-code {
+  font-weight: 600;
+  font-size: 0.82em;
+  color: #b9cce8;
 }
 .feuille .num {
   text-align: center;
@@ -156,10 +161,32 @@ body {
   padding: 1vh 0;
   letter-spacing: 1px;
 }
-.bar-row {
+.bar-top {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 2fr;
   gap: 0.8vw;
+  align-items: stretch;
+}
+.bar-essai {
+  display: grid;
+  grid-template-rows: auto 1fr;
+}
+.bar-essai-num {
+  background: #e6e9ef;
+  color: #111;
+  display: grid;
+  place-content: center;
+  font-size: clamp(36px, 7vw, 90px);
+  font-weight: 900;
+}
+.bar-hr {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.8vw;
+}
+.bar-hr > div {
+  display: grid;
+  grid-template-rows: auto 1fr;
 }
 .bar-label {
   background: linear-gradient(var(--fed-head), var(--fed-head-2));
@@ -172,15 +199,15 @@ body {
 .bar-value {
   background: #e6e9ef;
   color: #111;
-  text-align: center;
+  display: grid;
+  place-content: center;
   font-size: clamp(26px, 4vw, 56px);
   font-weight: 800;
-  padding: 0.4vh 0;
 }
+/* Grille de disques : 9 colonnes (en-têtes au-dessus, comptes alignés en dessous). */
 .plates {
   display: grid;
-  grid-auto-flow: column;
-  grid-auto-columns: 1fr;
+  grid-template-columns: repeat(9, 1fr);
   gap: 4px;
 }
 .plate-head {
@@ -250,72 +277,126 @@ body {
 
 /* ---------- Joueur ---------- */
 .joueur {
-  align-items: center;
-  justify-content: center;
-  gap: 2vh;
-  padding: 4vh;
+  padding: 3vh 3vw;
+  gap: 1.4vh;
+  justify-content: flex-start;
 }
-.joueur .name {
-  font-size: clamp(40px, 7vw, 96px);
-  font-weight: 900;
-  text-align: center;
-}
-.joueur .club {
-  color: #9fb4d6;
-  font-size: clamp(18px, 2.4vw, 34px);
-}
-.joueur .chips {
-  display: flex;
-  gap: 12px;
-}
-.joueur .chip {
+.j-club {
+  align-self: flex-start;
   background: linear-gradient(var(--fed-head), var(--fed-head-2));
-  padding: 6px 18px;
-  font-weight: 700;
-  font-size: clamp(16px, 2vw, 28px);
-}
-.joueur .big {
-  font-size: clamp(80px, 16vw, 220px);
-  font-weight: 900;
-  line-height: 1;
-}
-.joueur .move {
-  font-size: clamp(24px, 4vw, 52px);
+  color: #fff;
+  font-weight: 800;
+  font-size: clamp(18px, 2.4vw, 36px);
+  padding: 0.6vh 1.4vw;
   text-transform: uppercase;
-  color: #cfe0f7;
+}
+.j-name {
+  background: #e6e9ef;
+  color: #111;
+  text-align: center;
+  font-size: clamp(48px, 9vw, 140px);
+  font-weight: 900;
+  line-height: 1.05;
+  padding: 2vh 0;
+}
+.j-move {
+  background: linear-gradient(var(--fed-head), var(--fed-head-2));
+  color: #fff;
+  text-align: center;
+  font-weight: 800;
+  font-size: clamp(24px, 3.6vw, 48px);
+  padding: 0.8vh 0;
+  text-transform: uppercase;
+}
+.j-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 4px;
+}
+.j-grid .h {
+  background: linear-gradient(var(--fed-head), var(--fed-head-2));
+  color: #fff;
+  text-align: center;
+  font-weight: 700;
+  font-size: clamp(16px, 2vw, 30px);
+  padding: 0.6vh 0;
+  text-transform: uppercase;
+}
+.j-grid .v {
+  background: #e6e9ef;
+  color: #111;
+  text-align: center;
+  font-weight: 900;
+  font-size: clamp(40px, 7vw, 110px);
+  padding: 1.5vh 0;
+}
+.j-grid .v.att-good {
+  color: #137a39;
+}
+.j-grid .v.att-fail {
+  color: #b3201f;
+  text-decoration: line-through;
 }
 
-/* ---------- Ordre ---------- */
+/* ---------- Ordre (thème clair, comme la feuille fédérale) ---------- */
 .ordre {
-  padding: 3vh 4vw;
-  gap: 1.2vh;
+  padding: 0;
 }
-.ordre h2 {
+.o-title {
+  position: relative;
   background: linear-gradient(var(--fed-head), var(--fed-head-2));
-  margin: 0;
+  color: #fff;
   text-align: center;
-  padding: 1vh 0;
-  font-size: clamp(24px, 4vw, 48px);
+  padding: 1.1vh 0;
+  font-size: clamp(24px, 3.6vw, 46px);
+  font-weight: 800;
   text-transform: uppercase;
 }
-.ordre .item {
+.o-title .lift {
+  position: absolute;
+  left: 1vw;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 0.55em;
+  text-transform: none;
+  font-weight: 600;
+}
+.o-head,
+.o-row {
   display: grid;
-  grid-template-columns: 1.2fr 5fr 2fr;
+  grid-template-columns: 0.8fr 4fr 1.4fr 1fr;
   align-items: center;
-  background: linear-gradient(var(--fed-row-1), var(--fed-row-2));
-  padding: 1.1vh 1.4vw;
-  font-size: clamp(20px, 3vw, 40px);
+}
+.o-head {
+  background: linear-gradient(var(--fed-head), var(--fed-head-2));
+  color: #fff;
   font-weight: 700;
+  text-transform: uppercase;
+  font-size: clamp(13px, 1.5vw, 22px);
 }
-.ordre .item.first {
+.o-head > div {
+  text-align: center;
+  padding: 0.5vh 0;
+}
+.o-row {
+  color: #111;
+  font-weight: 700;
+  font-size: clamp(18px, 2.6vw, 38px);
+}
+.o-row:nth-child(odd) {
+  background: #e9ecf1;
+}
+.o-row:nth-child(even) {
+  background: #d2d6dd;
+}
+.o-row.current {
   background: linear-gradient(#d4d8f6, var(--fed-current));
-  color: var(--fed-current-ink);
 }
-.ordre .item .lot {
-  opacity: 0.8;
-  font-size: 0.8em;
+.o-row > div {
+  text-align: center;
+  padding: 0.7vh 0;
 }
-.ordre .item .wt {
-  text-align: right;
-  font-weight: 900;
+.o-row .athlete {
+  text-align: center;
+  font-weight: 800;
 }

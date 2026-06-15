@@ -1,9 +1,15 @@
-import { LIFT_LABELS, type Athlete, type LiftKey } from '@powerlift-meet/core';
+import { type Athlete, type LiftKey } from '@powerlift-meet/core';
 import { useAppState } from '../api.js';
 import { useComputed } from '../live.js';
 import { EmptyScreen } from './Empty.js';
 
 const AGE_ORDER = ['INTERDIT', 'CADET', 'SJR', 'JR', 'SNR', 'M1', 'M2', 'M3', 'M4'];
+
+const LIFT_HEADER: Record<LiftKey, string> = {
+  squat: 'SQUAT',
+  bench: 'DÉVELOPPÉ COUCHÉ',
+  deadlift: 'SOULEVÉ DE TERRE',
+};
 
 function catWeightValue(c: string): number {
   const m = /(\d+)/.exec(c);
@@ -43,7 +49,7 @@ export function Feuille(): JSX.Element {
       <table>
         <thead>
           <tr>
-            <th className="col-name">{LIFT_LABELS[lift].toUpperCase()}</th>
+            <th className="col-name">{LIFT_HEADER[lift]}</th>
             <th>PdC</th>
             <th>Lot</th>
             <th>1</th>
@@ -113,6 +119,7 @@ function FragmentGroup({
           <tr key={a.row} className={isCurrent ? 'current' : ''}>
             <td className="col-name">
               {isCurrent && <span className="arrow">▸ </span>}
+              <span className="club-code">{a.club}</span>{' '}
               <span className="sex">{sexSymbol(a.sex)}</span> {a.lastName} {a.firstName}
             </td>
             <td className="num">{a.bodyweight?.toFixed(1) ?? '—'}</td>

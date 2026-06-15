@@ -20,18 +20,20 @@ export function Chargeur(): JSX.Element {
         {cur.athlete.lastName} {cur.athlete.firstName}
       </div>
 
-      <div className="bar-row">
-        <div>
+      <div className="bar-top">
+        <div className="bar-essai">
           <div className="bar-label">Essai</div>
-          <div className="bar-value">{cur.attemptNo}</div>
+          <div className="bar-essai-num">{cur.attemptNo}</div>
         </div>
-        <div>
-          <div className="bar-label">Hauteur</div>
-          <div className="bar-value">—</div>
-        </div>
-        <div>
-          <div className="bar-label">Rack</div>
-          <div className="bar-value">—</div>
+        <div className="bar-hr">
+          <div>
+            <div className="bar-label">Hauteur</div>
+            <div className="bar-value">—</div>
+          </div>
+          <div>
+            <div className="bar-label">Rack</div>
+            <div className="bar-value">—</div>
+          </div>
         </div>
       </div>
 
