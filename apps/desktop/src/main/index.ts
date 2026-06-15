@@ -103,6 +103,22 @@ app.whenReady().then(() => {
   registerIpc();
   createControlWindow();
 
+  // Auto-chargement d'un dossier au démarrage (pratique pour l'auto-lancement le jour J) :
+  // variable d'env POWERLIFT_FOLDER ou argument `--folder=<chemin>`.
+  const argFolder = process.argv.find((a) => a.startsWith('--folder='))?.slice('--folder='.length);
+  const startFolder = process.env['POWERLIFT_FOLDER'] || argFolder;
+  if (startFolder) void store.setFolder(startFolder);
+
+  // Ouverture automatique des écrans : POWERLIFT_SCREENS=feuille,chargeur (ou "all").
+  const screensEnv = process.env['POWERLIFT_SCREENS'];
+  if (screensEnv) {
+    const names = screensEnv === 'all' ? ['feuille', 'joueur', 'chargeur', 'ordre'] : screensEnv.split(',');
+    for (const n of names) {
+      const name = n.trim() as ScreenName;
+      if (['feuille', 'joueur', 'chargeur', 'ordre'].includes(name)) openScreen(name);
+    }
+  }
+
   app.on('activate', () => {
     if (BrowserWindow.getAllWindows().length === 0) createControlWindow();
   });

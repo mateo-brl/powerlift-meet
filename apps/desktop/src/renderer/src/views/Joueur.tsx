@@ -11,23 +11,31 @@ export function Joueur(): JSX.Element {
 
   const a = cur.athlete;
   const r = results.get(a.row);
+  const attempts = a.lifts[cur.lift];
 
   return (
     <div className="screen joueur">
-      <div className="club">{a.club}</div>
-      <div className="name">
+      <div className="j-club">{a.club}</div>
+      <div className="j-name">
         {a.lastName} {a.firstName}
       </div>
-      <div className="chips">
-        <span className="chip">{r?.catAge}</span>
-        <span className="chip">{r?.catPoids}</span>
-        <span className="chip">{a.bodyweight?.toFixed(1)} kg</span>
-        <span className="chip">Lot {a.lot}</span>
+      <div className="j-move">{LIFT_LABELS[cur.lift]}</div>
+      <div className="j-grid">
+        <div className="h">Cat. poids</div>
+        <div className="h">Essai 1</div>
+        <div className="h">Essai 2</div>
+        <div className="h">Essai 3</div>
+        <div className="v">{r?.catPoids ?? '—'}</div>
+        {[0, 1, 2].map((i) => {
+          const at = attempts[i]!;
+          const cls = at.status === 'good' ? 'att-good' : at.status === 'fail' ? 'att-fail' : '';
+          return (
+            <div key={i} className={`v ${cls}`}>
+              {at.weight ?? '—'}
+            </div>
+          );
+        })}
       </div>
-      <div className="move">
-        {LIFT_LABELS[cur.lift]} · Essai {cur.attemptNo}
-      </div>
-      <div className="big">{cur.weight ?? '—'} kg</div>
     </div>
   );
 }
