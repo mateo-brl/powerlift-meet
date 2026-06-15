@@ -7,6 +7,10 @@
   "author": {
     "name": "Mateo Baril"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mateo-brl/powerlift-meet.git"
+  },
   "scripts": {
     "dev": "electron-vite dev",
     "build": "electron-vite build",
