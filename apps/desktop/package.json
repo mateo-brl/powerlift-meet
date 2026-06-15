@@ -1,5 +1,5 @@
 {
-  "name": "@powerlift-meet/desktop",
+  "name": "powerlift-meet-desktop",
   "version": "0.1.0",
   "description": "Application desktop powerlift-meet : panneau de contrôle + 4 écrans de salle (Electron + React).",
   "license": "GPL-3.0-or-later",
