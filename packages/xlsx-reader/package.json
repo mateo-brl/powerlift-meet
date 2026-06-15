@@ -1,0 +1,26 @@
+{
+  "name": "@powerlift-meet/xlsx-reader",
+  "version": "0.1.0",
+  "description": "Lecture (seule) des feuilles de match FFForce .xlsm vers le modèle de domaine, via exceljs (valeurs + couleurs + barré).",
+  "license": "GPL-3.0-or-later",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc -b",
+    "clean": "rm -rf dist *.tsbuildinfo"
+  },
+  "dependencies": {
+    "@powerlift-meet/core": "0.1.0",
+    "exceljs": "^4.4.0"
+  }
+}

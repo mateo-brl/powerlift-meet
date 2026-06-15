@@ -1,0 +1,3647 @@
+{
+  "FA": {
+    "M": {
+      "-53kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 157.5,
+            "athlete": "Lamiot Nathan",
+            "context": "2024 Pilsen (Cze)"
+          },
+          "bench": {
+            "weight": 102.5,
+            "athlete": "Duong Dinh Hy Allan",
+            "context": "2024 st paul's bay (Malte)"
+          },
+          "deadlift": {
+            "weight": 246.5,
+            "athlete": "Duong Dinh Hy Allan",
+            "context": "2024 st paul's bay ( Malte)"
+          },
+          "total": {
+            "weight": 496.5,
+            "athlete": "Duong Dinh Hy Allan",
+            "context": "2024 st paul's bay (Malte)"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 170.0,
+            "athlete": "Valette Killian",
+            "context": "2023 Budapest (Hu)"
+          },
+          "bench": {
+            "weight": 110.0,
+            "athlete": "Dlile Jonas",
+            "context": "2024 Nancy (Fr)"
+          },
+          "deadlift": {
+            "weight": 205.0,
+            "athlete": "Valette Killian",
+            "context": "2023 Budapest (Hu)"
+          },
+          "total": {
+            "weight": 482.5,
+            "athlete": "Valette Killian",
+            "context": "2023 Budapest (Hu)"
+          }
+        }
+      },
+      "-59kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 213.0,
+            "athlete": "Taron Adam",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "bench": {
+            "weight": 128.0,
+            "athlete": "Taron Adam",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "deadlift": {
+            "weight": 286.0,
+            "athlete": "Duong Dinh Hy Allan",
+            "context": "2025 Costa Rica (Cr)"
+          },
+          "total": {
+            "weight": 586.0,
+            "athlete": "Duong Dinh Hy Allan",
+            "context": "2025 Costa Rica (Cr)"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 210.0,
+            "athlete": "Dupuy Noel Valentin",
+            "context": "2025 Costa Rica (Cr)"
+          },
+          "bench": {
+            "weight": 142.5,
+            "athlete": "Dupuy Noel Valentin",
+            "context": "2025 Costa Rica (Cr)"
+          },
+          "deadlift": {
+            "weight": 270.0,
+            "athlete": "Dupuy-Noel Valentin",
+            "context": "2025 Costa Rica (Cr)"
+          },
+          "total": {
+            "weight": 622.5,
+            "athlete": "Dupuy Noel Valentin",
+            "context": "2025 Costa Rica (Cr)"
+          }
+        },
+        "Open": {
+          "squat": {
+            "weight": 230.0,
+            "athlete": "Garcia Antoine",
+            "context": "2025 Chemnitz (Ger)"
+          },
+          "bench": {
+            "weight": 142.5,
+            "athlete": "Dupuy Noel Valentin",
+            "context": "2025 Costa Rica (Cr)"
+          },
+          "deadlift": {
+            "weight": 286.0,
+            "athlete": "Duong Dinh Hy Allan",
+            "context": "2025 Costa Rica (Cr)"
+          },
+          "total": {
+            "weight": 622.5,
+            "athlete": "Dupuy Noel Valentin",
+            "context": "2025 Costa Rica (Cr)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 177.5,
+            "athlete": "Rezaee Wiliam",
+            "context": "2025 Cape Town (SA)"
+          },
+          "bench": {
+            "weight": 125.0,
+            "athlete": "Rezaee Wiliam",
+            "context": "2025 Cape Town (SA)"
+          },
+          "deadlift": {
+            "weight": 195.0,
+            "athlete": "Chollet Florian",
+            "context": "2024 Blanquefort (F)"
+          },
+          "total": {
+            "weight": 482.5,
+            "athlete": "Rezaee Wiliam",
+            "context": "2025 Cape Town (SA)"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 162.5,
+            "athlete": "Legard Patrick",
+            "context": "2015"
+          },
+          "bench": {
+            "weight": 112.5,
+            "athlete": "Marigot Gilles",
+            "context": "2021 Beuzeville (fr)"
+          },
+          "deadlift": {
+            "weight": 170.5,
+            "athlete": "Legard Patrick",
+            "context": "2016"
+          },
+          "total": {
+            "weight": 417.5,
+            "athlete": "Legard Patrick",
+            "context": "2015"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 130.0,
+            "athlete": "Legard Patrick",
+            "context": "2019"
+          },
+          "bench": {
+            "weight": 92.5,
+            "athlete": "Bonnefoy Jean",
+            "context": "2022 Beuzeville (F)"
+          },
+          "deadlift": {
+            "weight": 165.0,
+            "athlete": "Bonnefoy Jean",
+            "context": "2022 Beuzeville (F)"
+          },
+          "total": {
+            "weight": 385.0,
+            "athlete": "Bonnefoy Jean",
+            "context": "2022 Beuzeville 'F)"
+          }
+        },
+        "Master4": {
+          "squat": {
+            "weight": 135.0,
+            "athlete": "Bonnefoy Jean",
+            "context": "2024 Malaga (Es)"
+          },
+          "bench": {
+            "weight": 100.5,
+            "athlete": "Bonnefoy Jean",
+            "context": "2024 Blanquefort (F)"
+          },
+          "deadlift": {
+            "weight": 165.0,
+            "athlete": "Bonnefoy Jean",
+            "context": "2024 Malaga (Es)"
+          },
+          "total": {
+            "weight": 395.0,
+            "athlete": "Bonnefoy Jean",
+            "context": "2024 Malaga (Es)"
+          }
+        }
+      },
+      "-66kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 215.5,
+            "athlete": "Gautier Etienne",
+            "context": "2024 Villepinte (Fr)"
+          },
+          "bench": {
+            "weight": 140.0,
+            "athlete": "Benbachir Khaled",
+            "context": "2019 Helsingborg (Sw)"
+          },
+          "deadlift": {
+            "weight": 270.5,
+            "athlete": "Vigneron Nathan",
+            "context": "2025 Costa Rica (Cr)"
+          },
+          "total": {
+            "weight": 610.5,
+            "athlete": "Vigneron Nathan",
+            "context": "2025 Costa Rica (Cr)"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 240.5,
+            "athlete": "Cialdella Sacha",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "bench": {
+            "weight": 162.5,
+            "athlete": "Vigouroux Brandon",
+            "context": "2021 Port la Nouvelle(fr)"
+          },
+          "deadlift": {
+            "weight": 287.5,
+            "athlete": "Bruzzese Leoluca",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "total": {
+            "weight": 653.5,
+            "athlete": "Bruzzese Leoluca",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          }
+        },
+        "Open": {
+          "squat": {
+            "weight": 252.5,
+            "athlete": "Tarinidis Panagiotis",
+            "context": "2021 Port la Nouvelle(fr)"
+          },
+          "bench": {
+            "weight": 178.0,
+            "athlete": "Tarinidis Panagiotis",
+            "context": "2024 Le Crés (Fr)"
+          },
+          "deadlift": {
+            "weight": 298.0,
+            "athlete": "El Belghitti Hassan",
+            "context": "2019"
+          },
+          "total": {
+            "weight": 713.0,
+            "athlete": "Tarinidis Panagiotis",
+            "context": "2024 Le Crés (Fr)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 220.0,
+            "athlete": "El Belghitti Hassan",
+            "context": "2018"
+          },
+          "bench": {
+            "weight": 155.0,
+            "athlete": "Bernard Michael",
+            "context": "2018"
+          },
+          "deadlift": {
+            "weight": 298.0,
+            "athlete": "El Belghitti Hassan",
+            "context": "2019"
+          },
+          "total": {
+            "weight": 655.0,
+            "athlete": "El Belghitti Hassan",
+            "context": "2018"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 200.0,
+            "athlete": "Jouveaux Franck",
+            "context": "2024 Blanquefort (F)"
+          },
+          "bench": {
+            "weight": 145.0,
+            "athlete": "Bernard Michael",
+            "context": "2020 Albi (Fr)"
+          },
+          "deadlift": {
+            "weight": 225.0,
+            "athlete": "Jouveaux Franck",
+            "context": "2022 Albi (Fr)"
+          },
+          "total": {
+            "weight": 532.5,
+            "athlete": "Jouveaux Franck",
+            "context": "2022 Albi (Fr)"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 160.0,
+            "athlete": "Auberval Georges",
+            "context": "2018"
+          },
+          "bench": {
+            "weight": 110.5,
+            "athlete": "Houri Ahmed",
+            "context": "2025 Loos (Fr)"
+          },
+          "deadlift": {
+            "weight": 190.0,
+            "athlete": "Cuvilier Alain",
+            "context": "2017"
+          },
+          "total": {
+            "weight": 425.0,
+            "athlete": "Bonnefoy Jean",
+            "context": "2018"
+          }
+        },
+        "Master4": {
+          "squat": {
+            "weight": 127.5,
+            "athlete": "Mahauda Gontran",
+            "context": "2018"
+          },
+          "bench": {
+            "weight": 88.0,
+            "athlete": "Henry Marc",
+            "context": "2021 Beuzeville (fr)"
+          },
+          "deadlift": {
+            "weight": 167.5,
+            "athlete": "Cuvilier Alain",
+            "context": "2025 Loos (Fr)"
+          },
+          "total": {
+            "weight": 380.5,
+            "athlete": "Mahauda Gontran",
+            "context": "2018"
+          }
+        }
+      },
+      "-74kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 243.0,
+            "athlete": "Daoudi Adam",
+            "context": "2023 Budapest (Hu)"
+          },
+          "bench": {
+            "weight": 165.5,
+            "athlete": "Benbachir Khaled",
+            "context": "2019 Kaunas (lit)"
+          },
+          "deadlift": {
+            "weight": 273.0,
+            "athlete": "Al Attiya Ethan",
+            "context": "2024 Villepinte (Fr)"
+          },
+          "total": {
+            "weight": 642.5,
+            "athlete": "Murand Antonin",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 285.0,
+            "athlete": "Bertrand Balthazar",
+            "context": "2025 San Jose (CR)"
+          },
+          "bench": {
+            "weight": 195.0,
+            "athlete": "Poyet Bastien",
+            "context": "2016"
+          },
+          "deadlift": {
+            "weight": 308.5,
+            "athlete": "Sollima Enzo",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "total": {
+            "weight": 765.0,
+            "athlete": "Bertrand Balthazar",
+            "context": "2025 San Jose (CR)"
+          }
+        },
+        "Open": {
+          "squat": {
+            "weight": 285.0,
+            "athlete": "Bertrand Balthazar",
+            "context": "2025 San Jose (CR)"
+          },
+          "bench": {
+            "weight": 210.5,
+            "athlete": "Poinson Adrien",
+            "context": "2015"
+          },
+          "deadlift": {
+            "weight": 325.5,
+            "athlete": "Gaignet Guillaume",
+            "context": "2024 Le Crés (Fr)"
+          },
+          "total": {
+            "weight": 765.0,
+            "athlete": "Bertrand Balthazar",
+            "context": "2025 San Jose (CR)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 240.0,
+            "athlete": "El Belghitti Hassan",
+            "context": "2015"
+          },
+          "bench": {
+            "weight": 150.0,
+            "athlete": "Halbot Vincent",
+            "context": "2015"
+          },
+          "deadlift": {
+            "weight": 308.5,
+            "athlete": "El Belghitti Hassan",
+            "context": "2021 Port la Nouvelle(fr)"
+          },
+          "total": {
+            "weight": 695.0,
+            "athlete": "El Belghitti Hassan",
+            "context": "2015"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 226.0,
+            "athlete": "Baali Kader",
+            "context": "2024 Malaga (Es)"
+          },
+          "bench": {
+            "weight": 155.0,
+            "athlete": "Bernard Michael",
+            "context": "2022 Beuzeville (F)"
+          },
+          "deadlift": {
+            "weight": 256.5,
+            "athlete": "Baali Kader",
+            "context": "2019"
+          },
+          "total": {
+            "weight": 626.5,
+            "athlete": "Baali Kader",
+            "context": "2019"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 207.0,
+            "athlete": "Voisin Christian",
+            "context": "2018"
+          },
+          "bench": {
+            "weight": 133.0,
+            "athlete": "Voisin Christian",
+            "context": "2016"
+          },
+          "deadlift": {
+            "weight": 222.5,
+            "athlete": "Voisin Christian",
+            "context": "2017"
+          },
+          "total": {
+            "weight": 555.0,
+            "athlete": "Voisin Christian",
+            "context": "2016"
+          }
+        },
+        "Master4": {
+          "squat": {
+            "weight": 160.0,
+            "athlete": "Forget Bernard",
+            "context": "2019"
+          },
+          "bench": {
+            "weight": 110.0,
+            "athlete": "Feraud Guylhem",
+            "context": "2015"
+          },
+          "deadlift": {
+            "weight": 200.0,
+            "athlete": "Forget Bernard",
+            "context": "2019"
+          },
+          "total": {
+            "weight": 445.0,
+            "athlete": "Couturier Claude",
+            "context": "2022 Beuzeville 'F)"
+          }
+        }
+      },
+      "-83kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 247.5,
+            "athlete": "Baiden Richmond",
+            "context": "2019"
+          },
+          "bench": {
+            "weight": 170.5,
+            "athlete": "Baiden Richmont",
+            "context": "2019 Kaunas (lit)"
+          },
+          "deadlift": {
+            "weight": 285.0,
+            "athlete": "Baiden Richmont",
+            "context": "2019 Kaunas (lit)"
+          },
+          "total": {
+            "weight": 703.0,
+            "athlete": "Baiden Richmont",
+            "context": "2019 Kaunas (lit)"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 284.0,
+            "athlete": "Daoudi Adam",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "bench": {
+            "weight": 192.5,
+            "athlete": "Benbachir Khaled",
+            "context": "2024 Le Crés (Fr)"
+          },
+          "deadlift": {
+            "weight": 330.0,
+            "athlete": "Eygonet Calixte",
+            "context": "2024 Le Crés (Fr)"
+          },
+          "total": {
+            "weight": 765.5,
+            "athlete": "Czaplicki Thomas",
+            "context": "2024 Nancy (Fr)"
+          }
+        },
+        "Open": {
+          "squat": {
+            "weight": 300.0,
+            "athlete": "Rembauville Paul",
+            "context": "2025 Malaga (Sp)"
+          },
+          "bench": {
+            "weight": 200.0,
+            "athlete": "Sahari Medhi",
+            "context": "2022 Albi (fr)"
+          },
+          "deadlift": {
+            "weight": 340.0,
+            "athlete": "Bouchou Yanis",
+            "context": "2024 Birmingham (UK)"
+          },
+          "total": {
+            "weight": 810.0,
+            "athlete": "Bouchou Yanis",
+            "context": "2024 Birmingham (UK)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 256.0,
+            "athlete": "Lenglet Florent",
+            "context": "2025 Loos (Fr)"
+          },
+          "bench": {
+            "weight": 183.0,
+            "athlete": "Lenglet Florent",
+            "context": "2024 Malaga (Es)"
+          },
+          "deadlift": {
+            "weight": 288.0,
+            "athlete": "Razananjariny Julien",
+            "context": "2025 Loos (Fr)"
+          },
+          "total": {
+            "weight": 708.5,
+            "athlete": "Lenglet Florent",
+            "context": "2025 Loos (Fr)"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 235.0,
+            "athlete": "Baali Kader",
+            "context": "2018"
+          },
+          "bench": {
+            "weight": 162.5,
+            "athlete": "Houas Karim",
+            "context": "2025 Loos (Fr)"
+          },
+          "deadlift": {
+            "weight": 265.0,
+            "athlete": "Baali Kader",
+            "context": "2018"
+          },
+          "total": {
+            "weight": 650.0,
+            "athlete": "Baali Kader",
+            "context": "2018"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 212.5,
+            "athlete": "Taupe Laurent",
+            "context": "2025 Albi (Fr)"
+          },
+          "bench": {
+            "weight": 143.0,
+            "athlete": "Taupe Laurent",
+            "context": "2025 Loos (Fr)"
+          },
+          "deadlift": {
+            "weight": 252.5,
+            "athlete": "Richard Jacques",
+            "context": "2015"
+          },
+          "total": {
+            "weight": 587.5,
+            "athlete": "Taupe Laurent",
+            "context": "2025 Albi (Fr)"
+          }
+        },
+        "Master4": {
+          "squat": {
+            "weight": 171.0,
+            "athlete": "Vinot Jean Francois",
+            "context": "2021 Beuzeville (fr)"
+          },
+          "bench": {
+            "weight": 120.5,
+            "athlete": "Naty Michel",
+            "context": "2025 (Fr)"
+          },
+          "deadlift": {
+            "weight": 230.0,
+            "athlete": "Richard Jacques",
+            "context": "2019"
+          },
+          "total": {
+            "weight": 476.0,
+            "athlete": "Vinot Jean Francois",
+            "context": "2021 Beuzeville (fr)"
+          }
+        }
+      },
+      "-93kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 282.0,
+            "athlete": "Bernoussi Triolet Malik",
+            "context": "2022 Istanbul (Tu)"
+          },
+          "bench": {
+            "weight": 210.0,
+            "athlete": "Bernoussi Triolet Malik",
+            "context": "2022 Skierniewice (Pol)"
+          },
+          "deadlift": {
+            "weight": 320.5,
+            "athlete": "Galhaut Samuel",
+            "context": "2024 Pilsen (Cze)"
+          },
+          "total": {
+            "weight": 800.5,
+            "athlete": "Bernoussi Triolet Malik",
+            "context": "2022 Skierniewice (Pol)"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 307.5,
+            "athlete": "Castillo Paco",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "bench": {
+            "weight": 228.0,
+            "athlete": "Bernoussi Triolet Malik",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "deadlift": {
+            "weight": 340.0,
+            "athlete": "Jean Marie Flore Guillaume",
+            "context": "2023 Le Crès (Fr)"
+          },
+          "total": {
+            "weight": 840.5,
+            "athlete": "Bernoussi Triolet Malik",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          }
+        },
+        "Open": {
+          "squat": {
+            "weight": 310.0,
+            "athlete": "Baiden Richmond",
+            "context": "2025 Malaga (Sp)"
+          },
+          "bench": {
+            "weight": 228.0,
+            "athlete": "Bernoussi Triolet Malik",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "deadlift": {
+            "weight": 360.0,
+            "athlete": "Jean Marie Flore Guillaume",
+            "context": "2025 Chemnitz (Ger)"
+          },
+          "total": {
+            "weight": 850.0,
+            "athlete": "Baiden Richmond",
+            "context": "2025 Malaga (Sp)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 290.0,
+            "athlete": "Hupfer Sebastien",
+            "context": "2024 Le Crés (Fr)"
+          },
+          "bench": {
+            "weight": 186.0,
+            "athlete": "Idier Julien",
+            "context": "2025 Loos (Fr)"
+          },
+          "deadlift": {
+            "weight": 295.0,
+            "athlete": "Raymond Axel",
+            "context": "2024 Sun City (SA)"
+          },
+          "total": {
+            "weight": 742.5,
+            "athlete": "Raymond Axel",
+            "context": "2024 Malaga (Es)"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 262.5,
+            "athlete": "Houbre Fabrice",
+            "context": "2025 Albi (Fr)"
+          },
+          "bench": {
+            "weight": 170.5,
+            "athlete": "Bertin Fabrice",
+            "context": "2022 Beuzeville (F)"
+          },
+          "deadlift": {
+            "weight": 270.0,
+            "athlete": "Houbre Fabrice",
+            "context": "2025 Albi (Fr)"
+          },
+          "total": {
+            "weight": 690.0,
+            "athlete": "Houbre Fabrice",
+            "context": "2025 Albi (Fr)"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 245.0,
+            "athlete": "Mauchosse Eric",
+            "context": "2019"
+          },
+          "bench": {
+            "weight": 150.0,
+            "athlete": "Courtehoux Pierre",
+            "context": "2017"
+          },
+          "deadlift": {
+            "weight": 270.0,
+            "athlete": "Mauchosse Eric",
+            "context": "2018"
+          },
+          "total": {
+            "weight": 635.0,
+            "athlete": "Mauchosse Eric",
+            "context": "2019"
+          }
+        },
+        "Master4": {
+          "squat": {
+            "weight": 192.5,
+            "athlete": "Buchs Christian",
+            "context": "2017"
+          },
+          "bench": {
+            "weight": 112.5,
+            "athlete": "Mandou Eugene",
+            "context": "2016"
+          },
+          "deadlift": {
+            "weight": 222.5,
+            "athlete": "Buchs Christian",
+            "context": "2019"
+          },
+          "total": {
+            "weight": 517.5,
+            "athlete": "Buchs Christian",
+            "context": "2019"
+          }
+        }
+      },
+      "-105kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 292.5,
+            "athlete": "Clement Corentin",
+            "context": "2018"
+          },
+          "bench": {
+            "weight": 184.5,
+            "athlete": "Clement Corentin",
+            "context": "2018"
+          },
+          "deadlift": {
+            "weight": 324.0,
+            "athlete": "Clement Corentin",
+            "context": "2018"
+          },
+          "total": {
+            "weight": 796.0,
+            "athlete": "Clement Corentin",
+            "context": "2018"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 332.5,
+            "athlete": "Clement Corentin",
+            "context": "2022 Skierniewice (Pol)"
+          },
+          "bench": {
+            "weight": 210.0,
+            "athlete": "Clement Corentin",
+            "context": "2021 Port la Nouvelle(fr)"
+          },
+          "deadlift": {
+            "weight": 365.0,
+            "athlete": "Clement Corentin",
+            "context": "2021 Halmstad (sw)"
+          },
+          "total": {
+            "weight": 895.0,
+            "athlete": "Clement Corentin",
+            "context": "2021 Halmstad (sw)"
+          }
+        },
+        "Open": {
+          "squat": {
+            "weight": 332.5,
+            "athlete": "Clement Corentin",
+            "context": "2022 Skierniewice (Pol)"
+          },
+          "bench": {
+            "weight": 215.5,
+            "athlete": "Tchandeu Noundou Eliam",
+            "context": "2024 Le Crés (Fr)"
+          },
+          "deadlift": {
+            "weight": 375.0,
+            "athlete": "Clement Corentin",
+            "context": "2025 Malaga (Sp)"
+          },
+          "total": {
+            "weight": 920.0,
+            "athlete": "Clement Corentin",
+            "context": "2025 Malaga (Sp)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 260.0,
+            "athlete": "Nudant Xavier",
+            "context": "2024 Blanquefort (F)"
+          },
+          "bench": {
+            "weight": 200.0,
+            "athlete": "Bouteiller Marc",
+            "context": "2017"
+          },
+          "deadlift": {
+            "weight": 305.0,
+            "athlete": "Nudant Xavier",
+            "context": "2025 Cape Town (SA)"
+          },
+          "total": {
+            "weight": 745.0,
+            "athlete": "Nudant Xavier",
+            "context": "2025 Cape Town (SA)"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 263.0,
+            "athlete": "Bahria Imad",
+            "context": "2025 Loos (Fr)"
+          },
+          "bench": {
+            "weight": 157.5,
+            "athlete": "Boyer Roland",
+            "context": "2024 Blanquefort (F)"
+          },
+          "deadlift": {
+            "weight": 300.0,
+            "athlete": "Boyer Roland",
+            "context": "2025 Loos (Fr"
+          },
+          "total": {
+            "weight": 705.0,
+            "athlete": "Boyer Roland",
+            "context": "2025 Loos(Fr)"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 235.0,
+            "athlete": "Sicoli Adalgisio",
+            "context": "2025 Albi (Fr)"
+          },
+          "bench": {
+            "weight": 152.5,
+            "athlete": "Merlier Pascal",
+            "context": "2019"
+          },
+          "deadlift": {
+            "weight": 260.5,
+            "athlete": "Maes Patrick",
+            "context": "2021 Beuzeville (fr)"
+          },
+          "total": {
+            "weight": 602.5,
+            "athlete": "Sicoli Adalgisio",
+            "context": "2025 Albi (Fr)"
+          }
+        },
+        "Master4": {
+          "squat": {
+            "weight": 213.0,
+            "athlete": "Buchs Christian",
+            "context": "2018"
+          },
+          "bench": {
+            "weight": 120.0,
+            "athlete": "Di Vuolo Guy",
+            "context": "2016"
+          },
+          "deadlift": {
+            "weight": 242.5,
+            "athlete": "Buchs Christian",
+            "context": "2017"
+          },
+          "total": {
+            "weight": 563.0,
+            "athlete": "Buchs Christian",
+            "context": "2018"
+          }
+        }
+      },
+      "-120kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 260.0,
+            "athlete": "Le Turc Quentin",
+            "context": "2024 Villepinte (Fr)"
+          },
+          "bench": {
+            "weight": 145.0,
+            "athlete": "Le Turc Quentin",
+            "context": "2024 Villepinte (Fr)"
+          },
+          "deadlift": {
+            "weight": 245.0,
+            "athlete": "Le Turc Quentin",
+            "context": "2024 villepinte (Fr)"
+          },
+          "total": {
+            "weight": 650.0,
+            "athlete": "Le Turc Quentin",
+            "context": "2024 Villepinte (Fr)"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 330.0,
+            "athlete": "Clement Corentin",
+            "context": "2019"
+          },
+          "bench": {
+            "weight": 215.0,
+            "athlete": "Peyraud Nicolas",
+            "context": "2022 Istanbul (Tu)"
+          },
+          "deadlift": {
+            "weight": 355.0,
+            "athlete": "Peyraud Nicolas",
+            "context": "2022 Skierniewice (Pol)"
+          },
+          "total": {
+            "weight": 895.0,
+            "athlete": "Peyraud Nicolas",
+            "context": "2022 Skierniewice (Pol)"
+          }
+        },
+        "Open": {
+          "squat": {
+            "weight": 343.0,
+            "athlete": "Peyraud Nicolas",
+            "context": "2024 Le Crés (Fr)"
+          },
+          "bench": {
+            "weight": 225.5,
+            "athlete": "Vincent Benjy",
+            "context": "2024 Le Crés (Fr)"
+          },
+          "deadlift": {
+            "weight": 380.0,
+            "athlete": "Peyraud Nicolas",
+            "context": "2025 Malaga (Sp)"
+          },
+          "total": {
+            "weight": 935.5,
+            "athlete": "Peyraud Nicolas",
+            "context": "2024 Le Crés (Fr)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 275.0,
+            "athlete": "Lazare Jacky",
+            "context": "2023 Le Puy en Velay (Fr)"
+          },
+          "bench": {
+            "weight": 220.0,
+            "athlete": "Bonnay Dimitri",
+            "context": "2022 Beuzeville (F)"
+          },
+          "deadlift": {
+            "weight": 297.5,
+            "athlete": "Loubidika Regis",
+            "context": "2022 Beuzeville (F)"
+          },
+          "total": {
+            "weight": 735.0,
+            "athlete": "Lazare Jacky",
+            "context": "2023 Le Puy en Velay (Fr)"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 257.5,
+            "athlete": "Spitz Frederic",
+            "context": "2025 Albi (Fr)"
+          },
+          "bench": {
+            "weight": 195.0,
+            "athlete": "Minelle Jean Yves",
+            "context": "2016"
+          },
+          "deadlift": {
+            "weight": 280.0,
+            "athlete": "Hocquard Richard",
+            "context": "2018"
+          },
+          "total": {
+            "weight": 700.0,
+            "athlete": "Hocquard Richard",
+            "context": "2018"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 232.5,
+            "athlete": "Sicoli Adalgisio",
+            "context": "2022 Beuzeville (F)"
+          },
+          "bench": {
+            "weight": 160.0,
+            "athlete": "Billon Thierry",
+            "context": "2021 Beuzeville (fr)"
+          },
+          "deadlift": {
+            "weight": 260.0,
+            "athlete": "Pinat Jean Claude",
+            "context": "2025 Albi (Fr)"
+          },
+          "total": {
+            "weight": 612.5,
+            "athlete": "Pinat Jean Claude",
+            "context": "2025 Loos (Fr)"
+          }
+        },
+        "Master4": {
+          "squat": {
+            "weight": 201.0,
+            "athlete": "Belmas Jean Paul",
+            "context": "2020 Albi (Fr)"
+          },
+          "bench": {
+            "weight": 105.0,
+            "athlete": "Belmas Jean Paul",
+            "context": "2020 Albi (Fr)"
+          },
+          "deadlift": {
+            "weight": 200.0,
+            "athlete": "Belmas Jean Paul",
+            "context": "2020 Albi (Fr)"
+          },
+          "total": {
+            "weight": 506.0,
+            "athlete": "Belmas Jean Paul",
+            "context": "2020 Albi (Fr)"
+          }
+        }
+      },
+      "+120kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 235.0,
+            "athlete": "Bogey Malone",
+            "context": "2018"
+          },
+          "bench": {
+            "weight": 155.0,
+            "athlete": "Bogey Malone",
+            "context": "2018"
+          },
+          "deadlift": {
+            "weight": 260.0,
+            "athlete": "Berdoll Antoine",
+            "context": "Villenave d'Ornon (Fr)"
+          },
+          "total": {
+            "weight": 635.0,
+            "athlete": "Bogey Malone",
+            "context": "2018"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 335.0,
+            "athlete": "Clement Corentin",
+            "context": "2019 Barcelone (esp)"
+          },
+          "bench": {
+            "weight": 210.5,
+            "athlete": "Bekkhaled Mehdi",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "deadlift": {
+            "weight": 325.0,
+            "athlete": "Clement Corentin",
+            "context": "2019 Barcelone (esp)"
+          },
+          "total": {
+            "weight": 870.0,
+            "athlete": "Clement Corentin",
+            "context": "2019 Barcelone (esp)"
+          }
+        },
+        "Open": {
+          "squat": {
+            "weight": 385.0,
+            "athlete": "Odin Stanley",
+            "context": "2024 Le Crés (Fr)"
+          },
+          "bench": {
+            "weight": 257.5,
+            "athlete": "Masse Romuald",
+            "context": "2021 Port la Nouvelle(fr)"
+          },
+          "deadlift": {
+            "weight": 385.0,
+            "athlete": "Odin Stanley",
+            "context": "2023 Tartu (Est)"
+          },
+          "total": {
+            "weight": 990.0,
+            "athlete": "Odin Stanley",
+            "context": "2023 Tartu (Est)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 275.0,
+            "athlete": "Bonin Eric",
+            "context": "2018"
+          },
+          "bench": {
+            "weight": 210.0,
+            "athlete": "Bonin Eric",
+            "context": "2018"
+          },
+          "deadlift": {
+            "weight": 278.0,
+            "athlete": "Bonin Eric",
+            "context": "2018"
+          },
+          "total": {
+            "weight": 755.0,
+            "athlete": "Bonin Eric",
+            "context": "2018"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 226.5,
+            "athlete": "Cottret David",
+            "context": "2025 Loos (Fr)"
+          },
+          "bench": {
+            "weight": 180.0,
+            "athlete": "Chard Tony",
+            "context": "2018"
+          },
+          "deadlift": {
+            "weight": 292.5,
+            "athlete": "Chard Tony",
+            "context": "2018"
+          },
+          "total": {
+            "weight": 687.5,
+            "athlete": "Chard Tony",
+            "context": "2018"
+          }
+        },
+        "Master3": {
+          "bench": {
+            "weight": 125.0,
+            "athlete": "Sanchez Jean Francois",
+            "context": "2015"
+          },
+          "deadlift": {
+            "weight": 180.0,
+            "athlete": "Sanchez Jean Francois",
+            "context": "2015"
+          }
+        },
+        "Master4": {}
+      }
+    },
+    "F": {
+      "-43kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 78.5,
+            "athlete": "Serneels Lisa",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "bench": {
+            "weight": 52.0,
+            "athlete": "Serneels Lisa",
+            "context": "2025 Villenave d'Ornon(Fr)"
+          },
+          "deadlift": {
+            "weight": 115.0,
+            "athlete": "Serneels Lisa",
+            "context": "202 Villenave d'ornon (Fr)"
+          },
+          "total": {
+            "weight": 245.5,
+            "athlete": "Serneels Lisa",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 102.5,
+            "athlete": "Trinquart Flavie",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "bench": {
+            "weight": 65.5,
+            "athlete": "Hernandez Loïcia",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "deadlift": {
+            "weight": 128.5,
+            "athlete": "Trinquart Flavie",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "total": {
+            "weight": 288.5,
+            "athlete": "Hernandez Loïcia",
+            "context": "2025 Villenave d'ornon"
+          }
+        }
+      },
+      "-47kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 105.0,
+            "athlete": "Chansard Lucie",
+            "context": "2024 st paul's bay (Malte)"
+          },
+          "bench": {
+            "weight": 65.0,
+            "athlete": "Durand Andrea",
+            "context": "2012"
+          },
+          "deadlift": {
+            "weight": 132.5,
+            "athlete": "Chansard Lucie",
+            "context": "2024 Villepinte (Fr)"
+          },
+          "total": {
+            "weight": 292.5,
+            "athlete": "Durand Andrea",
+            "context": "2012"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 165.5,
+            "athlete": "Chapon Tiffany",
+            "context": "2024 Druskininkai (Lit)"
+          },
+          "bench": {
+            "weight": 101.5,
+            "athlete": "Chapon Tiffany",
+            "context": "2024 Le Crés (Fr)"
+          },
+          "deadlift": {
+            "weight": 173.0,
+            "athlete": "Stellato Maevane",
+            "context": "2024 Villepinte (Fr)"
+          },
+          "total": {
+            "weight": 433.0,
+            "athlete": "Chapon Tiffany",
+            "context": "2024 Druskininkai (Lit)"
+          }
+        },
+        "Open": {
+          "squat": {
+            "weight": 165.5,
+            "athlete": "Chapon Tiffany",
+            "context": "2024 Druskininkai (Lit)"
+          },
+          "bench": {
+            "weight": 102.0,
+            "athlete": "Chapon Tiffany",
+            "context": "2025 Chemnitz (Ger)"
+          },
+          "deadlift": {
+            "weight": 173.0,
+            "athlete": "Stellato Maevane",
+            "context": "2024 Villepinte (Fr)"
+          },
+          "total": {
+            "weight": 434.5,
+            "athlete": "Chapon Tiffany",
+            "context": "2025 Chemnistz (Ger)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 125.0,
+            "athlete": "Legard Stephanie",
+            "context": "2022 Albi (Fr)"
+          },
+          "bench": {
+            "weight": 80.0,
+            "athlete": "Legard Stephanie",
+            "context": "2022 Albi (Fr)"
+          },
+          "deadlift": {
+            "weight": 155.5,
+            "athlete": "Legard Stephanie",
+            "context": "2022 Aulnat (Fr)"
+          },
+          "total": {
+            "weight": 360.0,
+            "athlete": "Legard Stephanie",
+            "context": "2022 Albi (Fr)"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 97.5,
+            "athlete": "Feraud Nathalie",
+            "context": "2018"
+          },
+          "bench": {
+            "weight": 70.0,
+            "athlete": "Feraud Nathalie",
+            "context": "2019"
+          },
+          "deadlift": {
+            "weight": 127.5,
+            "athlete": "Feraud Nathalie",
+            "context": "2019"
+          },
+          "total": {
+            "weight": 292.5,
+            "athlete": "Feraud Nathalie",
+            "context": "2019"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 67.5,
+            "athlete": "Dutrillaux Marie Claude",
+            "context": "2015"
+          },
+          "bench": {
+            "weight": 43.0,
+            "athlete": "Dutrillaux Marie Claude",
+            "context": "2016"
+          },
+          "deadlift": {
+            "weight": 95.0,
+            "athlete": "Dutrillaux Marie Claude",
+            "context": "2015"
+          },
+          "total": {
+            "weight": 205.0,
+            "athlete": "Dutrillaux Marie Claude",
+            "context": "2015"
+          }
+        },
+        "Master4": {}
+      },
+      "-52kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 139.5,
+            "athlete": "Olivier cassandre",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "bench": {
+            "weight": 92.5,
+            "athlete": "Olivier Cassandre",
+            "context": "2025 Costa Rica (Cr)"
+          },
+          "deadlift": {
+            "weight": 163.0,
+            "athlete": "Olivier Cassandre",
+            "context": "2025 Villenave d'ornon (Fr)"
+          },
+          "total": {
+            "weight": 393.0,
+            "athlete": "Olivier Cassandre",
+            "context": "2025 Costa Rica (CR)"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 165.5,
+            "athlete": "Chapon Tiffany",
+            "context": "2022 st germain en lay(fr)"
+          },
+          "bench": {
+            "weight": 95.0,
+            "athlete": "Chapon Tiffany",
+            "context": "2022 st germain en lay(fr)"
+          },
+          "deadlift": {
+            "weight": 183.0,
+            "athlete": "Hadrys Camille",
+            "context": "2023 Cluj Napoca (Ro)"
+          },
+          "total": {
+            "weight": 430.5,
+            "athlete": "Chapon Tiffany",
+            "context": "2022 st germain en lay(fr)"
+          }
+        },
+        "Open": {
+          "squat": {
+            "weight": 171.5,
+            "athlete": "Allabert Noemie",
+            "context": "2023 Sheffield (UK)"
+          },
+          "bench": {
+            "weight": 107.5,
+            "athlete": "Chapon Tiffany",
+            "context": "2025 Chengdu ( Chn)"
+          },
+          "deadlift": {
+            "weight": 200.0,
+            "athlete": "Allabert Noemie",
+            "context": "2023 St.Julians (Malta)"
+          },
+          "total": {
+            "weight": 454.0,
+            "athlete": "Allabert Noemie",
+            "context": "2023 Sheffield (UK)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 125.0,
+            "athlete": "Cabral Angela",
+            "context": "2025 Albi (Fr)"
+          },
+          "bench": {
+            "weight": 72.5,
+            "athlete": "Bouvard Marianne",
+            "context": "2019"
+          },
+          "deadlift": {
+            "weight": 157.5,
+            "athlete": "Cabral Angela",
+            "context": "2025 Albi (Fr)"
+          },
+          "total": {
+            "weight": 355.0,
+            "athlete": "Cabral Angela",
+            "context": "2025 Albi (Fr)"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 107.5,
+            "athlete": "Feraud Nathalie",
+            "context": "2020 Albi (Fr)"
+          },
+          "bench": {
+            "weight": 73.0,
+            "athlete": "Verlaine Geraldine",
+            "context": "2025 Loos (Fr)"
+          },
+          "deadlift": {
+            "weight": 132.5,
+            "athlete": "Feraud Nathalie",
+            "context": "2020 Albi (Fr)"
+          },
+          "total": {
+            "weight": 312.5,
+            "athlete": "Feraud Nathalie",
+            "context": "2020 Albi (Fr)"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 80.0,
+            "athlete": "Dutrillaux Marie Claude",
+            "context": "2018"
+          },
+          "bench": {
+            "weight": 44.0,
+            "athlete": "Dutrillaux Marie Claude",
+            "context": "2018"
+          },
+          "deadlift": {
+            "weight": 106.0,
+            "athlete": "Dutrillaux Marie Claude",
+            "context": "2018"
+          },
+          "total": {
+            "weight": 230.0,
+            "athlete": "Dutrillaux Marie Claude",
+            "context": "2018"
+          }
+        },
+        "Master4": {}
+      },
+      "-57kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 145.0,
+            "athlete": "Vu Van Maeva",
+            "context": "2025 Vllenave d'Ornon (Fr)"
+          },
+          "bench": {
+            "weight": 78.5,
+            "athlete": "Paquin Erine",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "deadlift": {
+            "weight": 170.5,
+            "athlete": "De Fuentes Dafnée",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "total": {
+            "weight": 380.0,
+            "athlete": "Gaillard Lilou",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 188.0,
+            "athlete": "Jacob Jade",
+            "context": "2024 Sheffield (UK)"
+          },
+          "bench": {
+            "weight": 100.0,
+            "athlete": "Jacob Jade",
+            "context": "2022 Skierniewice (Pol)"
+          },
+          "deadlift": {
+            "weight": 231.5,
+            "athlete": "Jacob Jade",
+            "context": "2024 Sheffield (UK)"
+          },
+          "total": {
+            "weight": 519.5,
+            "athlete": "Jacob Jade",
+            "context": "2024 Sheffield (UK)"
+          }
+        },
+        "Open": {
+          "squat": {
+            "weight": 188.0,
+            "athlete": "Jacob Jade",
+            "context": "2024 Sheffield (UK)"
+          },
+          "bench": {
+            "weight": 108.0,
+            "athlete": "Huet Alison",
+            "context": "2024 Le Crés (Fr)"
+          },
+          "deadlift": {
+            "weight": 231.5,
+            "athlete": "Jacob Jade",
+            "context": "2024 Sheffield (UK)"
+          },
+          "total": {
+            "weight": 519.5,
+            "athlete": "Jacob Jade",
+            "context": "2024 Sheffield (UK)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 130.0,
+            "athlete": "Cabral Angela",
+            "context": "2025 Loos (Fr)"
+          },
+          "bench": {
+            "weight": 77.5,
+            "athlete": "Carion Stephanie",
+            "context": "2019"
+          },
+          "deadlift": {
+            "weight": 165.0,
+            "athlete": "Cabral Angela",
+            "context": "2025 Loos (Fr)"
+          },
+          "total": {
+            "weight": 370.0,
+            "athlete": "Cabral Angela",
+            "context": "2025 Loos (Fr)"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 111.5,
+            "athlete": "Feraud Nathalie",
+            "context": "2022 beuzeville (F)"
+          },
+          "bench": {
+            "weight": 92.5,
+            "athlete": "Pracella Marie-Christine",
+            "context": "2018"
+          },
+          "deadlift": {
+            "weight": 150.0,
+            "athlete": "Guennec Edith",
+            "context": "2015"
+          },
+          "total": {
+            "weight": 321.0,
+            "athlete": "Cabos Marie France",
+            "context": "2019"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 110.0,
+            "athlete": "Guennec Edith",
+            "context": "2016"
+          },
+          "bench": {
+            "weight": 60.5,
+            "athlete": "Grouet Molling Lydie",
+            "context": "2024 Blanquefort (F)"
+          },
+          "deadlift": {
+            "weight": 155.5,
+            "athlete": "Guennec Edith",
+            "context": "2017"
+          },
+          "total": {
+            "weight": 315.5,
+            "athlete": "Guennec Edith",
+            "context": "2016"
+          }
+        },
+        "Master4": {}
+      },
+      "-63kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 160.0,
+            "athlete": "Eugenie Samantha",
+            "context": "2019 Kaunas (lit)"
+          },
+          "bench": {
+            "weight": 88.0,
+            "athlete": "Vautey Marie",
+            "context": "2025 Villenave d'Ornon"
+          },
+          "deadlift": {
+            "weight": 190.5,
+            "athlete": "Vautey Marie",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "total": {
+            "weight": 435.0,
+            "athlete": "Eugenie Samantha",
+            "context": "2019 Kaunas (lit)"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 195.0,
+            "athlete": "Delos Ludivine",
+            "context": "2023 Nancy (FR)"
+          },
+          "bench": {
+            "weight": 110.0,
+            "athlete": "Peltret Marine",
+            "context": "2024 Le Crés (Fr)"
+          },
+          "deadlift": {
+            "weight": 232.0,
+            "athlete": "Jacob Jade",
+            "context": "2024 Villepinte (fr)"
+          },
+          "total": {
+            "weight": 512.0,
+            "athlete": "Jacob Jade",
+            "context": "2024 Villepinte (FR)"
+          }
+        },
+        "Open": {
+          "squat": {
+            "weight": 214.0,
+            "athlete": "Bavoil Prescillia",
+            "context": "2025 Shieffield (UK)"
+          },
+          "bench": {
+            "weight": 117.5,
+            "athlete": "Bavoil Prescillia",
+            "context": "2025 Shieffield (UK)"
+          },
+          "deadlift": {
+            "weight": 232.0,
+            "athlete": "Jacob Jade",
+            "context": "2024 Villepinte (Fr)"
+          },
+          "total": {
+            "weight": 567.5,
+            "athlete": "Bavoil Prescillia",
+            "context": "2024 Druskininkai (Lit)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 142.5,
+            "athlete": "Fabre Isabelle",
+            "context": "2025 Loos (Fr)"
+          },
+          "bench": {
+            "weight": 88.0,
+            "athlete": "Carion Stephanie",
+            "context": "2017"
+          },
+          "deadlift": {
+            "weight": 167.5,
+            "athlete": "Bernard Anne",
+            "context": "2025 Cape Town (SA)"
+          },
+          "total": {
+            "weight": 365.0,
+            "athlete": "Fabre Isabelle",
+            "context": "2025 Loos (Fr)"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 145.0,
+            "athlete": "Girot Noemie",
+            "context": "2025 Loos (Fr)"
+          },
+          "bench": {
+            "weight": 90.0,
+            "athlete": "Girot Noemie",
+            "context": "2025 Cape Town (SA)"
+          },
+          "deadlift": {
+            "weight": 182.5,
+            "athlete": "Girot Noemie",
+            "context": "2025 Cape Town (SA)"
+          },
+          "total": {
+            "weight": 417.5,
+            "athlete": "Girot Noemie",
+            "context": "2025 Cape Town (SA)"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 107.5,
+            "athlete": "Guennec Edith",
+            "context": "2020 Albi (Fr)"
+          },
+          "bench": {
+            "weight": 72.5,
+            "athlete": "Blondan Daisy",
+            "context": "2019"
+          },
+          "deadlift": {
+            "weight": 157.5,
+            "athlete": "Guennec Edith",
+            "context": "2020 Albi (Fr)"
+          },
+          "total": {
+            "weight": 320.0,
+            "athlete": "Guennec Edith",
+            "context": "2020 Albi (Fr)"
+          }
+        },
+        "Master4": {}
+      },
+      "-69kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 170.0,
+            "athlete": "Bouvier Elise",
+            "context": "2024 st paul's bay (Malte)"
+          },
+          "bench": {
+            "weight": 90.5,
+            "athlete": "Grancoin Eliza",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "deadlift": {
+            "weight": 181.0,
+            "athlete": "Camilli Clemence",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "total": {
+            "weight": 440.0,
+            "athlete": "Bouvier Elise",
+            "context": "2024 Pilsen (Cze)"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 202.5,
+            "athlete": "Bouchoux Andorina",
+            "context": "2025 Malaga (Sp)"
+          },
+          "bench": {
+            "weight": 120.0,
+            "athlete": "Peyraud Clara",
+            "context": "2023 St.Julians (Malta)"
+          },
+          "deadlift": {
+            "weight": 237.5,
+            "athlete": "Peyraud Clara",
+            "context": "2023 Tartu (Est)"
+          },
+          "total": {
+            "weight": 547.5,
+            "athlete": "Bouchoux Andorina",
+            "context": "2025 Malaga (Sp)"
+          }
+        },
+        "Open": {
+          "squat": {
+            "weight": 225.0,
+            "athlete": "Bavoil Prescillia",
+            "context": "2024 Sheffield (UK)"
+          },
+          "bench": {
+            "weight": 125.0,
+            "athlete": "Bavoil Prescillia",
+            "context": "2024 Druskininkai (Lit)"
+          },
+          "deadlift": {
+            "weight": 237.5,
+            "athlete": "Peyraud Clara",
+            "context": "2023 Tartu (Est)"
+          },
+          "total": {
+            "weight": 585.0,
+            "athlete": "Bavoil Prescillia",
+            "context": "2024 Sheffield (UK)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 162.5,
+            "athlete": "Clavier Emilie",
+            "context": "2025 Albi (Fr)"
+          },
+          "bench": {
+            "weight": 100.0,
+            "athlete": "Clavier Emilie",
+            "context": "2024 Le Crés (Fr)"
+          },
+          "deadlift": {
+            "weight": 197.5,
+            "athlete": "Clavier Emilie",
+            "context": "2025 Albi (Fr)"
+          },
+          "total": {
+            "weight": 460.0,
+            "athlete": "Clavier Emilie",
+            "context": "2025 Albi (Fr)"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 135.0,
+            "athlete": "Leccese Florence",
+            "context": "2024 Malaga (Es)"
+          },
+          "bench": {
+            "weight": 80.0,
+            "athlete": "Leccese Florence",
+            "context": "2025 Cap Town(SA)"
+          },
+          "deadlift": {
+            "weight": 150.0,
+            "athlete": "Descours Veronique",
+            "context": "2022 Beuzeville (F)"
+          },
+          "total": {
+            "weight": 342.5,
+            "athlete": "Leccese Florence",
+            "context": "2024 Sun City (SA)"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 97.5,
+            "athlete": "Laure Katia",
+            "context": "2025 Loos (Fr)"
+          },
+          "bench": {
+            "weight": 70.0,
+            "athlete": "Blondan Daisy",
+            "context": "2021 Pilsen (rc)"
+          },
+          "deadlift": {
+            "weight": 130.0,
+            "athlete": "Blondan Daisy",
+            "context": "2023 Puy en Velay (Fr)"
+          },
+          "total": {
+            "weight": 295.0,
+            "athlete": "Blondan Daisy",
+            "context": "2023 Puy en Velay (Fr)"
+          }
+        },
+        "Master4": {
+          "squat": {
+            "weight": 70.0,
+            "athlete": "Billard Regine",
+            "context": "2025 Albi (Fr)"
+          },
+          "bench": {
+            "weight": 35.0,
+            "athlete": "Billard Regine",
+            "context": "2025 Albi (Fr)"
+          },
+          "deadlift": {
+            "weight": 105.0,
+            "athlete": "Billard Regine",
+            "context": "2025 Albi (Fr)"
+          },
+          "total": {
+            "weight": 210.0,
+            "athlete": "Billard Regine",
+            "context": "2025 Albi (Fr)"
+          }
+        }
+      },
+      "-76kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 172.5,
+            "athlete": "Bonneau-Abram Ambre",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "bench": {
+            "weight": 87.5,
+            "athlete": "Turbe Agathe",
+            "context": "2024 st paul's bay (Malte)"
+          },
+          "deadlift": {
+            "weight": 185.0,
+            "athlete": "Turbe Agathe",
+            "context": "2024 Villepinte (Fr)"
+          },
+          "total": {
+            "weight": 430.0,
+            "athlete": "Turbe Agathe",
+            "context": "2024 st paul's bay (Malte)"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 200.0,
+            "athlete": "Mautalen Laura",
+            "context": "2022 Istanbul (Tu)"
+          },
+          "bench": {
+            "weight": 145.5,
+            "athlete": "Mautalen Laura",
+            "context": "2022 Istanbul (Tu)"
+          },
+          "deadlift": {
+            "weight": 242.5,
+            "athlete": "Peyraud Clara",
+            "context": "2024 Villepinte (FR)"
+          },
+          "total": {
+            "weight": 567.5,
+            "athlete": "Peyraud Clara",
+            "context": "2025 Malaga (Sp)"
+          }
+        },
+        "Open": {
+          "squat": {
+            "weight": 200.0,
+            "athlete": "Mautalen Laura",
+            "context": "2022 Istanbul (Tu)"
+          },
+          "bench": {
+            "weight": 150.0,
+            "athlete": "Mautalen Laura",
+            "context": "2025 Chemnitz (Ger)"
+          },
+          "deadlift": {
+            "weight": 242.5,
+            "athlete": "Peyraud Clara",
+            "context": "2024 Villepinte (FR)"
+          },
+          "total": {
+            "weight": 590.0,
+            "athlete": "Mautalen Laura",
+            "context": "2025 Chemnitz (Ger)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 142.5,
+            "athlete": "Afanou Tchada Rosemonde",
+            "context": "2024 Malaga (Es)"
+          },
+          "bench": {
+            "weight": 107.5,
+            "athlete": "Alberti Stephanie",
+            "context": "2023 Puy en Velay (Fr)"
+          },
+          "deadlift": {
+            "weight": 183.0,
+            "athlete": "Afanou Tchada Rosemonde",
+            "context": "2024 Blanquefort (F)"
+          },
+          "total": {
+            "weight": 388.0,
+            "athlete": "Afanou Tchada Rosemonde",
+            "context": "2024 Blanquefort (F)"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 140.0,
+            "athlete": "Afanou Tchada Rosemonde",
+            "context": "2025 Albi (Fr)"
+          },
+          "bench": {
+            "weight": 77.5,
+            "athlete": "Afanou Tchada Rosemonde",
+            "context": "2025 Albi (Fr)"
+          },
+          "deadlift": {
+            "weight": 199.0,
+            "athlete": "Afanou Tchada Rosemonde",
+            "context": "2025 Albi (Fr)"
+          },
+          "total": {
+            "weight": 416.5,
+            "athlete": "Afanou Tchada Rosemonde",
+            "context": "2025 Albi (Fr)"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 117.5,
+            "athlete": "Labat Framboise",
+            "context": "2025 Loos (Fr)"
+          },
+          "bench": {
+            "weight": 70.0,
+            "athlete": "Labat Framboise",
+            "context": "2025 Loos (Fr)"
+          },
+          "deadlift": {
+            "weight": 155.0,
+            "athlete": "Labat Framboise",
+            "context": "2025 Loos (Fr)"
+          },
+          "total": {
+            "weight": 342.5,
+            "athlete": "Labat Framboise",
+            "context": "2025 Loos (Fr)"
+          }
+        },
+        "Master4": {}
+      },
+      "-84kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 120.0,
+            "athlete": "Kelle Emma",
+            "context": "2024 Villepinte (Fr)"
+          },
+          "bench": {
+            "weight": 70.0,
+            "athlete": "Kelle Emma",
+            "context": "2024 Villepinte (Fr)"
+          },
+          "deadlift": {
+            "weight": 135.0,
+            "athlete": "Kelle Emma",
+            "context": "2024 Villepinte (Fr)"
+          },
+          "total": {
+            "weight": 325.0,
+            "athlete": "Kelle Emma",
+            "context": "2024 Villepinte (Fr)"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 208.0,
+            "athlete": "Mouchet Emilie",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "bench": {
+            "weight": 135.0,
+            "athlete": "Mouchet Emilie",
+            "context": "2025 CostaRica (Cr)"
+          },
+          "deadlift": {
+            "weight": 215.0,
+            "athlete": "Mouchet Emilie",
+            "context": "2025 Costa Rica (Cr)"
+          },
+          "total": {
+            "weight": 555.0,
+            "athlete": "Mouchet Emilie",
+            "context": "2025 Costa Rica (Cr)"
+          }
+        },
+        "Open": {
+          "squat": {
+            "weight": 215.0,
+            "athlete": "Millecamps Kelly",
+            "context": "2022 Albi (Fr)"
+          },
+          "bench": {
+            "weight": 135.0,
+            "athlete": "Mouchet Emilie",
+            "context": "2025 CostaRica (Cr)"
+          },
+          "deadlift": {
+            "weight": 215.0,
+            "athlete": "Mouchet Emilie",
+            "context": "2025 Costa Rica (Cr)"
+          },
+          "total": {
+            "weight": 555.0,
+            "athlete": "Mouchet Emilie",
+            "context": "2025 Costa Rica (Cr)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 155.0,
+            "athlete": "Etienne Alba",
+            "context": "2025 Loos (Fr)"
+          },
+          "bench": {
+            "weight": 120.0,
+            "athlete": "Faivre Stephanie",
+            "context": "2025 Loos (Fr)"
+          },
+          "deadlift": {
+            "weight": 182.5,
+            "athlete": "Etienne Alba",
+            "context": "2025 Loos (Fr)"
+          },
+          "total": {
+            "weight": 412.5,
+            "athlete": "Etienne Alba",
+            "context": "2025 Loos (fr)"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 137.5,
+            "athlete": "Collinot France",
+            "context": "2021 Beuzeville (fr)"
+          },
+          "bench": {
+            "weight": 75.0,
+            "athlete": "Collinot France",
+            "context": "2021 Beuzeville (fr)"
+          },
+          "deadlift": {
+            "weight": 160.0,
+            "athlete": "Collinot France",
+            "context": "2021 Beuzeville (fr)"
+          },
+          "total": {
+            "weight": 372.5,
+            "athlete": "Collinot France",
+            "context": "2021 Beuzeville (fr)"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 90.0,
+            "athlete": "Lemarchand Joelle",
+            "context": "2025 Loos (Fr)"
+          },
+          "bench": {
+            "weight": 55.0,
+            "athlete": "Lemarchand Joelle",
+            "context": "2025 Albi (Fr)"
+          },
+          "deadlift": {
+            "weight": 110.0,
+            "athlete": "Lemarchand Joelle",
+            "context": "2025 Loos (Fr)"
+          },
+          "total": {
+            "weight": 255.0,
+            "athlete": "Lemarchand Joelle",
+            "context": "2025 Loos (Fr)"
+          }
+        },
+        "Master4": {}
+      },
+      "+84kg": {
+        "Subjunior": {
+          "squat": {
+            "weight": 170.0,
+            "athlete": "Letaief Rachelle",
+            "context": "2018"
+          },
+          "bench": {
+            "weight": 73.0,
+            "athlete": "Kelle Emma",
+            "context": "2025 Villenave d'Ornon (Fr)"
+          },
+          "deadlift": {
+            "weight": 170.0,
+            "athlete": "Letaief Rachelle",
+            "context": "2018"
+          },
+          "total": {
+            "weight": 410.0,
+            "athlete": "Letaief Rachelle",
+            "context": "2018"
+          }
+        },
+        "Junior": {
+          "squat": {
+            "weight": 202.5,
+            "athlete": "Mmadi  Salma",
+            "context": "2023 Budapest (Hu)"
+          },
+          "bench": {
+            "weight": 97.5,
+            "athlete": "Mmadi  Salma",
+            "context": "2023 Granjska Gora (Sl)"
+          },
+          "deadlift": {
+            "weight": 195.0,
+            "athlete": "Kranjska Gora",
+            "context": "2019"
+          },
+          "total": {
+            "weight": 487.5,
+            "athlete": "Mmadi  Salma",
+            "context": "2023 Budapest (Hu)"
+          }
+        },
+        "Open": {
+          "squat": {
+            "weight": 252.5,
+            "athlete": "Mierger Amelie",
+            "context": "2022 Skierniewice (Pol)"
+          },
+          "bench": {
+            "weight": 166.5,
+            "athlete": "Mierger Amelie",
+            "context": "2024 Druskininkai (Lit)"
+          },
+          "deadlift": {
+            "weight": 240.0,
+            "athlete": "Mierger Amelie",
+            "context": "2022 Albi (Fr)"
+          },
+          "total": {
+            "weight": 651.5,
+            "athlete": "Mierger Amelie",
+            "context": "2024 Druskininkai(Lit)"
+          }
+        },
+        "Master1": {
+          "bench": {
+            "weight": 72.5,
+            "athlete": "Auclair Veronique",
+            "context": "2016"
+          },
+          "deadlift": {
+            "weight": 127.5,
+            "athlete": "Auclair Veronique",
+            "context": "2016"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 120.0,
+            "athlete": "Delande Sonia",
+            "context": "2025 Loos (Fr)"
+          },
+          "bench": {
+            "weight": 70.0,
+            "athlete": "Auclair Veronique",
+            "context": "2018"
+          },
+          "deadlift": {
+            "weight": 145.0,
+            "athlete": "Delande Sonia",
+            "context": "2025 Loos (Fr)"
+          },
+          "total": {
+            "weight": 322.5,
+            "athlete": "Delande Sonia",
+            "context": "2025 Loos (Fr)"
+          }
+        },
+        "Master3": {},
+        "Master4": {}
+      }
+    }
+  },
+  "PL": {
+    "M": {
+      "-59kg": {
+        "Open": {
+          "squat": {
+            "weight": 242.5,
+            "athlete": "Lited Etienne",
+            "context": "2011"
+          },
+          "bench": {
+            "weight": 152.5,
+            "athlete": "Tinebra Frederic",
+            "context": "2012"
+          },
+          "deadlift": {
+            "weight": 247.5,
+            "athlete": "Lited Etienne",
+            "context": "2012"
+          },
+          "total": {
+            "weight": 632.5,
+            "athlete": "Lited Etienne",
+            "context": "2012"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 140.0,
+            "athlete": "Angin Benoit",
+            "context": "2019 Potchefstroom(za)"
+          },
+          "bench": {
+            "weight": 90.0,
+            "athlete": "Angin Benoit",
+            "context": "2019 Potchefstroom(za)"
+          },
+          "deadlift": {
+            "weight": 140.0,
+            "athlete": "Angin Benoit",
+            "context": "2019 Potchefstroom(za)"
+          },
+          "total": {
+            "weight": 370.0,
+            "athlete": "Angin Benoit",
+            "context": "2019 Potchefstroom(za)"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 205.0,
+            "athlete": "Legard Patrick",
+            "context": "2013"
+          },
+          "deadlift": {
+            "weight": 182.5,
+            "athlete": "Legard Patrick",
+            "context": "2013"
+          },
+          "total": {
+            "weight": 470.0,
+            "athlete": "Legard Patrick",
+            "context": "2013"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 145.0,
+            "athlete": "Nivault Marcel",
+            "context": "2013"
+          },
+          "deadlift": {
+            "weight": 180.0,
+            "athlete": "Nivault Marcel",
+            "context": "2012"
+          }
+        },
+        "Master4": {
+          "squat": {
+            "weight": 135.5,
+            "athlete": "Nivault Marcel",
+            "context": "2016"
+          },
+          "deadlift": {
+            "weight": 171.5,
+            "athlete": "Nivault Marcel",
+            "context": "2016"
+          },
+          "total": {
+            "weight": 353.5,
+            "athlete": "Nivault Marcel",
+            "context": "2014"
+          }
+        }
+      },
+      "-66kg": {
+        "Open": {
+          "squat": {
+            "weight": 295.0,
+            "athlete": "El Belghitti Hassan",
+            "context": "2012"
+          },
+          "bench": {
+            "weight": 195.0,
+            "athlete": "Bernard Michael",
+            "context": "2018 Potchefstroom(za)"
+          },
+          "deadlift": {
+            "weight": 318.5,
+            "athlete": "El Belghitti Hassan",
+            "context": "2022 Viborg (Den)"
+          },
+          "total": {
+            "weight": 783.5,
+            "athlete": "El Belghitti Hassan",
+            "context": "2022 Viborg (den)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 295.0,
+            "athlete": "El Belghitti Hassan",
+            "context": "2019"
+          },
+          "bench": {
+            "weight": 195.0,
+            "athlete": "Bernard Michael",
+            "context": "2019 Potchefstroom(za)"
+          },
+          "deadlift": {
+            "weight": 318.5,
+            "athlete": "El Belghitti Hassan",
+            "context": "2022 Viborg (Den)"
+          },
+          "total": {
+            "weight": 783.5,
+            "athlete": "El Belghitti Hassan",
+            "context": "2022 Viborg (den)"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 217.5,
+            "athlete": "Bernard Michael",
+            "context": "2020 Pontoise (Fr)"
+          },
+          "bench": {
+            "weight": 190.0,
+            "athlete": "Bernard Michael",
+            "context": "2020 Pontoise (Fr)"
+          },
+          "deadlift": {
+            "weight": 235.0,
+            "athlete": "Jouveaux Franck",
+            "context": "2022 La Gorgue (F)"
+          },
+          "total": {
+            "weight": 602.5,
+            "athlete": "Bernard Michael",
+            "context": "2020 Pontoise (Fr)"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 182.5,
+            "athlete": "Cuvelier Alain",
+            "context": "2013"
+          },
+          "bench": {
+            "weight": 115.5,
+            "athlete": "Chenais Jean Jacques",
+            "context": "2014"
+          },
+          "deadlift": {
+            "weight": 210.0,
+            "athlete": "Cuvelier Alain",
+            "context": "2013"
+          },
+          "total": {
+            "weight": 505.0,
+            "athlete": "Cuvelier Alain",
+            "context": "2013"
+          }
+        },
+        "Master4": {
+          "deadlift": {
+            "weight": 160.0,
+            "athlete": "Nivault Marcel",
+            "context": "2018"
+          }
+        }
+      },
+      "-74kg": {
+        "Open": {
+          "squat": {
+            "weight": 320.5,
+            "athlete": "El Belghitti Hassan",
+            "context": "2013"
+          },
+          "bench": {
+            "weight": 245.0,
+            "athlete": "Poinson Adrien",
+            "context": "2014"
+          },
+          "deadlift": {
+            "weight": 325.0,
+            "athlete": "El Belghiti Hassan",
+            "context": "2015"
+          },
+          "total": {
+            "weight": 808.0,
+            "athlete": "El Belghiti Hassan",
+            "context": "2013"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 305.0,
+            "athlete": "El Belghitti Hassan",
+            "context": "2016"
+          },
+          "bench": {
+            "weight": 197.5,
+            "athlete": "Baali Kader",
+            "context": "2014"
+          },
+          "deadlift": {
+            "weight": 325.0,
+            "athlete": "El Belghiti Hassan",
+            "context": "2015"
+          },
+          "total": {
+            "weight": 797.5,
+            "athlete": "El Belghiti Hassan",
+            "context": "2015"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 240.0,
+            "athlete": "Ruffault Michel",
+            "context": "2014"
+          },
+          "bench": {
+            "weight": 200.0,
+            "athlete": "Bernard Michael",
+            "context": "2022 Aulnat (Fr)"
+          },
+          "deadlift": {
+            "weight": 278.0,
+            "athlete": "Ruffault Michel",
+            "context": "2015"
+          },
+          "total": {
+            "weight": 645.5,
+            "athlete": "Ruffault Michel",
+            "context": "2014"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 215.0,
+            "athlete": "Couturier Claude",
+            "context": "2016"
+          },
+          "bench": {
+            "weight": 137.5,
+            "athlete": "Couturier Claude",
+            "context": "2014"
+          },
+          "deadlift": {
+            "weight": 237.5,
+            "athlete": "Vinot Jean Francois",
+            "context": "2011"
+          },
+          "total": {
+            "weight": 552.5,
+            "athlete": "Couturier Claude",
+            "context": "2015"
+          }
+        },
+        "Master4": {
+          "squat": {
+            "weight": 185.0,
+            "athlete": "Couturier Claude",
+            "context": "2022 La Gorgue (F)"
+          },
+          "bench": {
+            "weight": 117.5,
+            "athlete": "Couturier Claude",
+            "context": "2022 La Gorgue (F)"
+          },
+          "deadlift": {
+            "weight": 200.0,
+            "athlete": "Dufour Gerard",
+            "context": "2021 Blanquefort (F)"
+          },
+          "total": {
+            "weight": 482.5,
+            "athlete": "Couturier Claude",
+            "context": "2022 La Gorgue (F)"
+          }
+        }
+      },
+      "-83kg": {
+        "Open": {
+          "squat": {
+            "weight": 322.5,
+            "athlete": "Picot Geraud Romain",
+            "context": "2014"
+          },
+          "bench": {
+            "weight": 225.0,
+            "athlete": "Bertin Fabrice",
+            "context": "2018"
+          },
+          "deadlift": {
+            "weight": 312.5,
+            "athlete": "Picot Geraud Romain",
+            "context": "2014"
+          },
+          "total": {
+            "weight": 840.0,
+            "athlete": "Picot Geraud Romain",
+            "context": "2014"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 300.0,
+            "athlete": "Gandner Frederic",
+            "context": "2013"
+          },
+          "bench": {
+            "weight": 197.5,
+            "athlete": "Bertin Fabrice",
+            "context": "2014"
+          },
+          "deadlift": {
+            "weight": 295.0,
+            "athlete": "Gandner Frederic",
+            "context": "2014"
+          },
+          "total": {
+            "weight": 785.0,
+            "athlete": "Gandner Frederic",
+            "context": "2014"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 257.5,
+            "athlete": "Bertin Fabrice",
+            "context": "2018"
+          },
+          "bench": {
+            "weight": 225.0,
+            "athlete": "Bertin Fabrice",
+            "context": "2018"
+          },
+          "deadlift": {
+            "weight": 265.0,
+            "athlete": "Carlot Dominique",
+            "context": "2013"
+          },
+          "total": {
+            "weight": 688.5,
+            "athlete": "Bertin Fabrice",
+            "context": "2018"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 220.0,
+            "athlete": "Richard Jacques",
+            "context": "2013"
+          },
+          "bench": {
+            "weight": 145.0,
+            "athlete": "Naty Michel",
+            "context": "2019"
+          },
+          "deadlift": {
+            "weight": 260.0,
+            "athlete": "Richard Jacques",
+            "context": "2013"
+          },
+          "total": {
+            "weight": 570.0,
+            "athlete": "Richard Jacques",
+            "context": "2013"
+          }
+        },
+        "Master4": {
+          "squat": {
+            "weight": 160.0,
+            "athlete": "Vinot Jean Francois",
+            "context": "2021 Blanquefort (F)"
+          },
+          "bench": {
+            "weight": 105.0,
+            "athlete": "Dufour Gerard",
+            "context": "2022 La Gorgue (F)"
+          },
+          "deadlift": {
+            "weight": 180.0,
+            "athlete": "Dufour Gerard",
+            "context": "2022 La Gorgue (F)"
+          },
+          "total": {
+            "weight": 420.0,
+            "athlete": "Dufour Gerard",
+            "context": "2022 La Gorgue (F)"
+          }
+        }
+      },
+      "-93kg": {
+        "Open": {
+          "squat": {
+            "weight": 330.0,
+            "athlete": "Carole Benoit",
+            "context": "2014"
+          },
+          "bench": {
+            "weight": 255.0,
+            "athlete": "Grenier Allan",
+            "context": "2013"
+          },
+          "deadlift": {
+            "weight": 325.0,
+            "athlete": "Pinheiro Gilles",
+            "context": "2012"
+          },
+          "total": {
+            "weight": 875.0,
+            "athlete": "Pinheiro Gilles",
+            "context": "2014"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 303.0,
+            "athlete": "Vaillant Cyril",
+            "context": "2020 Pontoise (Fr)"
+          },
+          "bench": {
+            "weight": 220.0,
+            "athlete": "Pires Daniel",
+            "context": "2015"
+          },
+          "deadlift": {
+            "weight": 290.0,
+            "athlete": "Bonnel Olivier",
+            "context": "2016"
+          },
+          "total": {
+            "weight": 785.0,
+            "athlete": "Vaillant Cyril",
+            "context": "2019"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 290.0,
+            "athlete": "Mauchosse Eric",
+            "context": "2013"
+          },
+          "bench": {
+            "weight": 217.5,
+            "athlete": "Boughamdouz Gemel",
+            "context": "2017"
+          },
+          "deadlift": {
+            "weight": 275.0,
+            "athlete": "Mauchosse Eric",
+            "context": "2013"
+          },
+          "total": {
+            "weight": 755.0,
+            "athlete": "Mauchosse Eric",
+            "context": "2013"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 252.5,
+            "athlete": "Mokadem Boucif",
+            "context": "2011"
+          },
+          "bench": {
+            "weight": 160.0,
+            "athlete": "Mokadem Boucif",
+            "context": "2012"
+          },
+          "deadlift": {
+            "weight": 255.0,
+            "athlete": "Mokadem Boucif",
+            "context": "2013"
+          },
+          "total": {
+            "weight": 665.0,
+            "athlete": "Mokadem Boucif",
+            "context": "2012"
+          }
+        },
+        "Master4": {}
+      },
+      "-105kg": {
+        "Open": {
+          "squat": {
+            "weight": 392.5,
+            "athlete": "Belkesir Sofiane",
+            "context": "2017"
+          },
+          "bench": {
+            "weight": 315.0,
+            "athlete": "Grenier Allan",
+            "context": "2019"
+          },
+          "deadlift": {
+            "weight": 360.0,
+            "athlete": "Belkesir Sofiane",
+            "context": "2014"
+          },
+          "total": {
+            "weight": 1020.0,
+            "athlete": "Belkesir Sofiane",
+            "context": "2017"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 320.0,
+            "athlete": "Buttigieg Frederic",
+            "context": "2012"
+          },
+          "bench": {
+            "weight": 250.0,
+            "athlete": "Buttigieg Frederic",
+            "context": "2012"
+          },
+          "deadlift": {
+            "weight": 290.0,
+            "athlete": "Buttigieg Frederic",
+            "context": "2012"
+          },
+          "total": {
+            "weight": 860.0,
+            "athlete": "Buttigieg Frederic",
+            "context": "2012"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 312.5,
+            "athlete": "Sicoli Adalgiso",
+            "context": "2014"
+          },
+          "bench": {
+            "weight": 235.0,
+            "athlete": "Leroy Fabrice",
+            "context": "2017"
+          },
+          "deadlift": {
+            "weight": 275.5,
+            "athlete": "Mercier Charly",
+            "context": "2023 Bordeaux (Fr)"
+          },
+          "total": {
+            "weight": 757.5,
+            "athlete": "Sicoli Adalgiso",
+            "context": "2014"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 250.0,
+            "athlete": "Delpieu Christian",
+            "context": "2013"
+          },
+          "bench": {
+            "weight": 165.0,
+            "athlete": "Merlier Pascal",
+            "context": "2019"
+          },
+          "deadlift": {
+            "weight": 250.0,
+            "athlete": "Delpieu Christian",
+            "context": "2013"
+          },
+          "total": {
+            "weight": 635.0,
+            "athlete": "Delpieu Christian",
+            "context": "2013"
+          }
+        },
+        "Master4": {
+          "squat": {
+            "weight": 235.0,
+            "athlete": "Buchs Christian",
+            "context": "2017"
+          },
+          "bench": {
+            "weight": 125.0,
+            "athlete": "Buchs Christian",
+            "context": "2017"
+          },
+          "deadlift": {
+            "weight": 235.0,
+            "athlete": "Buchs Christian",
+            "context": "2017"
+          },
+          "total": {
+            "weight": 595.0,
+            "athlete": "Buchs Christian",
+            "context": "2017"
+          }
+        }
+      },
+      "-120kg": {
+        "Open": {
+          "squat": {
+            "weight": 427.5,
+            "athlete": "Belkesir Sofiane",
+            "context": "2023 Druskininkai (Lit)"
+          },
+          "bench": {
+            "weight": 320.0,
+            "athlete": "Grenier Allan",
+            "context": "2021 Stavanger (No)"
+          },
+          "deadlift": {
+            "weight": 365.0,
+            "athlete": "Belkesir Sofiane",
+            "context": "2023 Druskininkai (Lit)"
+          },
+          "total": {
+            "weight": 1090.0,
+            "athlete": "Belkesir Sofiane",
+            "context": "2023 Druskininkai (Lit)"
+          }
+        },
+        "Master1": {
+          "bench": {
+            "weight": 230.0,
+            "athlete": "Riviere Patrick",
+            "context": "2014"
+          },
+          "deadlift": {
+            "weight": 302.5,
+            "athlete": "Mlodziakoski David",
+            "context": "2014"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 285.5,
+            "athlete": "Hocquard Richard",
+            "context": "2019"
+          },
+          "bench": {
+            "weight": 197.5,
+            "athlete": "Bar Eric",
+            "context": "2021 Blanquefort (F)"
+          },
+          "deadlift": {
+            "weight": 267.5,
+            "athlete": "Hocquard Richard",
+            "context": "2018"
+          },
+          "total": {
+            "weight": 733.0,
+            "athlete": "Hocquard Richard",
+            "context": "2019"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 265.0,
+            "athlete": "Sanou Abdoulaye",
+            "context": "2014"
+          },
+          "bench": {
+            "weight": 195.0,
+            "athlete": "Merlier Pascal",
+            "context": "2020 Pontoise (Fr)"
+          },
+          "deadlift": {
+            "weight": 230.0,
+            "athlete": "Merlier Pascal",
+            "context": "2020 Pontoise (Fr)"
+          },
+          "total": {
+            "weight": 665.0,
+            "athlete": "Merlier Pascal",
+            "context": "2020 Pontoise (Fr)"
+          }
+        },
+        "Master4": {}
+      },
+      "+120kg": {
+        "Open": {
+          "squat": {
+            "weight": 300.0,
+            "athlete": "Masarotti Ugo",
+            "context": "2020 Pontoise (Fr)"
+          },
+          "bench": {
+            "weight": 295.0,
+            "athlete": "Lejeune Aurelien",
+            "context": "2013"
+          },
+          "deadlift": {
+            "weight": 310.5,
+            "athlete": "Masaroti Ugo",
+            "context": "2020 Pontoise (Fr)"
+          },
+          "total": {
+            "weight": 945.0,
+            "athlete": "Lejeune Aurelien",
+            "context": "2013"
+          }
+        },
+        "Master1": {
+          "bench": {
+            "weight": 210.0,
+            "athlete": "Bar Eric",
+            "context": "2014"
+          },
+          "total": {
+            "weight": 790.0,
+            "athlete": "Paulet Yann",
+            "context": "2015"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 235.0,
+            "athlete": "Chard Tony",
+            "context": "2020 Pontoise (Fr)"
+          },
+          "bench": {
+            "weight": 215.0,
+            "athlete": "Chard Tony",
+            "context": "2018"
+          },
+          "deadlift": {
+            "weight": 305.0,
+            "athlete": "Chard Tony",
+            "context": "2019"
+          },
+          "total": {
+            "weight": 757.5,
+            "athlete": "Chard Tony",
+            "context": "2018"
+          }
+        },
+        "Master3": {},
+        "Master4": {}
+      }
+    },
+    "F": {
+      "-47kg": {
+        "Open": {
+          "squat": {
+            "weight": 167.5,
+            "athlete": "Legard Stephanie",
+            "context": "2021 Stavanger (No)"
+          },
+          "bench": {
+            "weight": 97.5,
+            "athlete": "Le Panse Benedicte",
+            "context": "2013"
+          },
+          "deadlift": {
+            "weight": 165.0,
+            "athlete": "Legard Stephanie",
+            "context": "2022 Birmingham (US)"
+          },
+          "total": {
+            "weight": 427.5,
+            "athlete": "Legard Stephanie",
+            "context": "2021 Stavanger (  No)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 167.5,
+            "athlete": "Legard Stephanie",
+            "context": "2021 Stavanger (No)"
+          },
+          "bench": {
+            "weight": 97.5,
+            "athlete": "Legard Stephanie",
+            "context": "2021 Stavanger (No)"
+          },
+          "deadlift": {
+            "weight": 165.0,
+            "athlete": "Legard Stephanie",
+            "context": "2022 Birmingham (US)"
+          },
+          "total": {
+            "weight": 427.5,
+            "athlete": "Legard Stephanie",
+            "context": "2021 Stavanger (  No)"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 132.5,
+            "athlete": "Feraud Nathalie",
+            "context": "2018"
+          },
+          "bench": {
+            "weight": 90.0,
+            "athlete": "Feraud Nathalie",
+            "context": "2018"
+          },
+          "deadlift": {
+            "weight": 140.0,
+            "athlete": "Feraud Nathalie",
+            "context": "2018"
+          },
+          "total": {
+            "weight": 362.5,
+            "athlete": "Feraud Nathalie",
+            "context": "2018"
+          }
+        },
+        "Master3": {},
+        "Master4": {}
+      },
+      "-52kg": {
+        "Open": {
+          "squat": {
+            "weight": 175.0,
+            "athlete": "Martin Vanessa",
+            "context": "2016"
+          },
+          "bench": {
+            "weight": 102.5,
+            "athlete": "Martin Vanessa",
+            "context": "2015"
+          },
+          "deadlift": {
+            "weight": 165.0,
+            "athlete": "Martin Vanessa",
+            "context": "2016"
+          },
+          "total": {
+            "weight": 440.0,
+            "athlete": "Martin Vanessa",
+            "context": "2016"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 175.0,
+            "athlete": "Martin Vanessa",
+            "context": "2016"
+          },
+          "bench": {
+            "weight": 100.0,
+            "athlete": "Martin Vanessa",
+            "context": "2016"
+          },
+          "deadlift": {
+            "weight": 165.0,
+            "athlete": "Martin Vanessa",
+            "context": "2016"
+          },
+          "total": {
+            "weight": 440.0,
+            "athlete": "Martin Vanessa",
+            "context": "2016"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 142.5,
+            "athlete": "Feraud Nathalie",
+            "context": "2020 Pontoise (Fr)"
+          },
+          "bench": {
+            "weight": 98.0,
+            "athlete": "Feraud Nathalie",
+            "context": "2019 Potchefstroom(za)"
+          },
+          "deadlift": {
+            "weight": 147.5,
+            "athlete": "Feraud Nathalie",
+            "context": "2019 Potchefstroom(za)"
+          },
+          "total": {
+            "weight": 383.0,
+            "athlete": "Feraud Nathalie",
+            "context": "2019 Potchefstroom(za)"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 95.0,
+            "athlete": "Malicot Maryse",
+            "context": "2015"
+          },
+          "bench": {
+            "weight": 57.5,
+            "athlete": "Jallais Marie Therese",
+            "context": "2017"
+          },
+          "deadlift": {
+            "weight": 105.0,
+            "athlete": "Malicot Maryse",
+            "context": "2014"
+          },
+          "total": {
+            "weight": 245.0,
+            "athlete": "Malicot Maryse",
+            "context": "2015"
+          }
+        },
+        "Master4": {
+          "squat": {
+            "weight": 92.5,
+            "athlete": "Malicot Maryse",
+            "context": "2016"
+          },
+          "bench": {
+            "weight": 47.5,
+            "athlete": "Malicot Maryse",
+            "context": "2016"
+          },
+          "deadlift": {
+            "weight": 100.0,
+            "athlete": "Malicot Maryse",
+            "context": "2016"
+          },
+          "total": {
+            "weight": 230.0,
+            "athlete": "Malicot Maryse",
+            "context": "2016"
+          }
+        }
+      },
+      "-57kg": {
+        "Open": {
+          "squat": {
+            "weight": 195.0,
+            "athlete": "Sune Caroline",
+            "context": "2021 Pilsen (c r)"
+          },
+          "bench": {
+            "weight": 137.5,
+            "athlete": "Anthouard Melodie",
+            "context": "2022 Pilsen (Rc)"
+          },
+          "deadlift": {
+            "weight": 180.0,
+            "athlete": "Sune Caroline",
+            "context": "2021 Pilsen (Rc)"
+          },
+          "total": {
+            "weight": 487.5,
+            "athlete": "Anthouard Melodie",
+            "context": "2022 Pilsen (Rc)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 150.0,
+            "athlete": "Mingot Sylvie",
+            "context": "2012"
+          },
+          "bench": {
+            "weight": 115.0,
+            "athlete": "Mingot Sylvie",
+            "context": "2012"
+          },
+          "deadlift": {
+            "weight": 158.0,
+            "athlete": "Le Blevenec Nina",
+            "context": "2017"
+          },
+          "total": {
+            "weight": 410.0,
+            "athlete": "Mingot Sylvie",
+            "context": "2012"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 140.0,
+            "athlete": "Cabos Marie France",
+            "context": "2018"
+          },
+          "bench": {
+            "weight": 92.5,
+            "athlete": "Cabos Marie France",
+            "context": "2018"
+          },
+          "deadlift": {
+            "weight": 155.0,
+            "athlete": "Guennec Edith",
+            "context": "2014"
+          },
+          "total": {
+            "weight": 377.5,
+            "athlete": "Cabos Marie France",
+            "context": "2018"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 115.0,
+            "athlete": "Grouet Lydie",
+            "context": "2020 Pontoise (Fr)"
+          },
+          "bench": {
+            "weight": 75.0,
+            "athlete": "Grouet Lydie",
+            "context": "2020 Pontoise (Fr)"
+          },
+          "deadlift": {
+            "weight": 170.0,
+            "athlete": "Guennec Edith",
+            "context": "2017"
+          },
+          "total": {
+            "weight": 337.5,
+            "athlete": "Guennec Edith",
+            "context": "2016"
+          }
+        },
+        "Master4": {
+          "squat": {
+            "weight": 92.5,
+            "athlete": "Malicot Maryse",
+            "context": "2019 Potchefstroom(za)"
+          },
+          "bench": {
+            "weight": 50.0,
+            "athlete": "Malicot Maryse",
+            "context": "2017"
+          },
+          "deadlift": {
+            "weight": 100.0,
+            "athlete": "Malicot Maryse",
+            "context": "2017"
+          },
+          "total": {
+            "weight": 242.5,
+            "athlete": "Malicot Maryse",
+            "context": "2017"
+          }
+        }
+      },
+      "-63kg": {
+        "Open": {
+          "squat": {
+            "weight": 210.0,
+            "athlete": "Sun Caroline",
+            "context": "2023 Druskininkai (Lit)"
+          },
+          "bench": {
+            "weight": 147.5,
+            "athlete": "Anthouard Melodie",
+            "context": "2022 Birmingham (US)"
+          },
+          "deadlift": {
+            "weight": 182.5,
+            "athlete": "Sune Caroline",
+            "context": "2023 Druskininkai (Lit)"
+          },
+          "total": {
+            "weight": 512.5,
+            "athlete": "Sun Caroline",
+            "context": "2023 Druskininkai (Lit)"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 165.0,
+            "athlete": "Baali Isabelle",
+            "context": "2013"
+          },
+          "bench": {
+            "weight": 120.0,
+            "athlete": "Iliev Isabelle",
+            "context": "2013"
+          },
+          "deadlift": {
+            "weight": 170.0,
+            "athlete": "Iliev Isabelle",
+            "context": "2013"
+          },
+          "total": {
+            "weight": 445.0,
+            "athlete": "Iliev Isabelle",
+            "context": "2013"
+          }
+        },
+        "Master2": {
+          "squat": {
+            "weight": 131.0,
+            "athlete": "Descourt Veronique",
+            "context": "2021 Blanquefort (F)"
+          },
+          "bench": {
+            "weight": 95.0,
+            "athlete": "Cabos Marie France",
+            "context": "2020 Pontoise (Fr)"
+          },
+          "deadlift": {
+            "weight": 148.0,
+            "athlete": "Descourt Veronique",
+            "context": "2021 Blanquefort (F)"
+          },
+          "total": {
+            "weight": 369.0,
+            "athlete": "Descourt Veronique",
+            "context": "2021 Blanquefort (F)"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 115.0,
+            "athlete": "Calves Françoise",
+            "context": "2017"
+          },
+          "bench": {
+            "weight": 65.0,
+            "athlete": "Calves Françoise",
+            "context": "2017"
+          },
+          "deadlift": {
+            "weight": 127.5,
+            "athlete": "Calves Françoise",
+            "context": "2017"
+          },
+          "total": {
+            "weight": 307.5,
+            "athlete": "Calves Françoise",
+            "context": "2017"
+          }
+        },
+        "Master4": {}
+      },
+      "-69kg": {
+        "Open": {},
+        "Master1": {},
+        "Master2": {
+          "squat": {
+            "weight": 147.5,
+            "athlete": "Leccese Florence",
+            "context": "2023 Pilsen (Cz)"
+          },
+          "bench": {
+            "weight": 92.5,
+            "athlete": "Leccese Florence",
+            "context": "2023 Pilsen (Cz)"
+          },
+          "deadlift": {
+            "weight": 145.0,
+            "athlete": "Descours Veronique",
+            "context": "2023 Bordeaux (Fr)"
+          },
+          "total": {
+            "weight": 372.5,
+            "athlete": "Descourt Veronique",
+            "context": "2023 Bordeaux (Fr)"
+          }
+        },
+        "Master3": {
+          "squat": {
+            "weight": 107.5,
+            "athlete": "Blondan Daisy",
+            "context": "2021 Pilsen (c r)"
+          },
+          "bench": {
+            "weight": 75.0,
+            "athlete": "Blondan Daisy",
+            "context": "2021 Pilsen (c r)"
+          },
+          "deadlift": {
+            "weight": 135.0,
+            "athlete": "Blondan Daisy",
+            "context": "2021 Pilsen (c r)"
+          },
+          "total": {
+            "weight": 317.5,
+            "athlete": "Blondan Daisy",
+            "context": "2021 Pilsen (c r)"
+          }
+        },
+        "Master4": {}
+      },
+      "-76kg": {
+        "Open": {},
+        "Master1": {},
+        "Master2": {},
+        "Master3": {},
+        "Master4": {}
+      },
+      "-84kg": {
+        "Open": {
+          "squat": {
+            "weight": 180.0,
+            "athlete": "Chavanis Virginie",
+            "context": "2014"
+          },
+          "bench": {
+            "weight": 107.5,
+            "athlete": "Chavanis Virginie",
+            "context": "2014"
+          },
+          "deadlift": {
+            "weight": 170.0,
+            "athlete": "Chavanis Virginie",
+            "context": "2014"
+          },
+          "total": {
+            "weight": 457.5,
+            "athlete": "Chavanis Virginie",
+            "context": "2014"
+          }
+        },
+        "Master1": {
+          "squat": {
+            "weight": 157.5,
+            "athlete": "Maubert Cecile",
+            "context": "2014"
+          },
+          "bench": {
+            "weight": 80.0,
+            "athlete": "Benlabili Sylvie",
+            "context": "2018"
+          },
+          "deadlift": {
+            "weight": 165.0,
+            "athlete": "Maubert Cecile",
+            "context": "2014"
+          },
+          "total": {
+            "weight": 402.5,
+            "athlete": "Maubert Cecile",
+            "context": "2014"
+          }
+        },
+        "Master2": {},
+        "Master3": {},
+        "Master4": {}
+      },
+      "+84kg": {
+        "Open": {},
+        "Master1": {},
+        "Master2": {},
+        "Master3": {},
+        "Master4": {}
+      }
+    }
+  }
+}

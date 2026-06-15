@@ -1,0 +1,482 @@
+[
+  {
+    "id": "PLATEAUAGrou-0",
+    "sexe": "M",
+    "birthYear": 2006,
+    "bodyweight": 83.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "JR",
+      "catPoids": "83 Kg",
+      "indice": 0.138427
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-1",
+    "sexe": "M",
+    "birthYear": 2006,
+    "bodyweight": 83.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "JR",
+      "catPoids": "83 Kg",
+      "indice": 0.138427
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-2",
+    "sexe": "M",
+    "birthYear": 2005,
+    "bodyweight": 93.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "JR",
+      "catPoids": "93 Kg",
+      "indice": 0.130822
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-3",
+    "sexe": "M",
+    "birthYear": 2005,
+    "bodyweight": 93.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "JR",
+      "catPoids": "93 Kg",
+      "indice": 0.130822
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-4",
+    "sexe": "M",
+    "birthYear": 2005,
+    "bodyweight": 83.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "JR",
+      "catPoids": "83 Kg",
+      "indice": 0.138427
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-5",
+    "sexe": "M",
+    "birthYear": 2005,
+    "bodyweight": 105.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "JR",
+      "catPoids": "105 Kg",
+      "indice": 0.123465
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-6",
+    "sexe": "M",
+    "birthYear": 2004,
+    "bodyweight": 93.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "JR",
+      "catPoids": "93 Kg",
+      "indice": 0.130822
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-7",
+    "sexe": "M",
+    "birthYear": 2004,
+    "bodyweight": 120.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "JR",
+      "catPoids": "120 Kg",
+      "indice": 0.116246
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-8",
+    "sexe": "M",
+    "birthYear": 2003,
+    "bodyweight": 105.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "JR",
+      "catPoids": "105 Kg",
+      "indice": 0.123465
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-9",
+    "sexe": "M",
+    "birthYear": 2003,
+    "bodyweight": 83.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "JR",
+      "catPoids": "83 Kg",
+      "indice": 0.138427
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-10",
+    "sexe": "M",
+    "birthYear": 2003,
+    "bodyweight": 93.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "JR",
+      "catPoids": "93 Kg",
+      "indice": 0.130822
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-0",
+    "sexe": "F",
+    "birthYear": 2000,
+    "bodyweight": 57.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "57 Kg",
+      "indice": 0.234566
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-1",
+    "sexe": "F",
+    "birthYear": 2006,
+    "bodyweight": 63.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "JR",
+      "catPoids": "63 Kg",
+      "indice": 0.218784
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-2",
+    "sexe": "F",
+    "birthYear": 2002,
+    "bodyweight": 63.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "63 Kg",
+      "indice": 0.218784
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-3",
+    "sexe": "F",
+    "birthYear": 2002,
+    "bodyweight": 57.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "57 Kg",
+      "indice": 0.234566
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-4",
+    "sexe": "F",
+    "birthYear": 1980,
+    "bodyweight": 85.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "M1",
+      "catPoids": "+84 Kg",
+      "indice": 0.187988
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-5",
+    "sexe": "F",
+    "birthYear": 2003,
+    "bodyweight": 63.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "JR",
+      "catPoids": "63 Kg",
+      "indice": 0.218784
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-6",
+    "sexe": "F",
+    "birthYear": 2003,
+    "bodyweight": 57.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "JR",
+      "catPoids": "57 Kg",
+      "indice": 0.234566
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-7",
+    "sexe": "F",
+    "birthYear": 2002,
+    "bodyweight": 63.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "63 Kg",
+      "indice": 0.218784
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-8",
+    "sexe": "F",
+    "birthYear": 2003,
+    "bodyweight": 76.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "JR",
+      "catPoids": "76 Kg",
+      "indice": 0.197157
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-9",
+    "sexe": "F",
+    "birthYear": 2000,
+    "bodyweight": 84.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "84 Kg",
+      "indice": 0.188849
+    }
+  },
+  {
+    "id": "PLATEAUAGrou-10",
+    "sexe": "M",
+    "birthYear": 2002,
+    "bodyweight": 105.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "105 Kg",
+      "indice": 0.123465
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-0",
+    "sexe": "M",
+    "birthYear": 2002,
+    "bodyweight": 66.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "66 Kg",
+      "indice": 0.155885
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-1",
+    "sexe": "M",
+    "birthYear": 1999,
+    "bodyweight": 66.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "66 Kg",
+      "indice": 0.155885
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-2",
+    "sexe": "M",
+    "birthYear": 1995,
+    "bodyweight": 66.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "66 Kg",
+      "indice": 0.155885
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-3",
+    "sexe": "M",
+    "birthYear": 2002,
+    "bodyweight": 74.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "74 Kg",
+      "indice": 0.14681
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-4",
+    "sexe": "M",
+    "birthYear": 1998,
+    "bodyweight": 74.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "74 Kg",
+      "indice": 0.14681
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-5",
+    "sexe": "M",
+    "birthYear": 2000,
+    "bodyweight": 83.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "83 Kg",
+      "indice": 0.138427
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-6",
+    "sexe": "M",
+    "birthYear": 1995,
+    "bodyweight": 83.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "83 Kg",
+      "indice": 0.138427
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-7",
+    "sexe": "M",
+    "birthYear": 1993,
+    "bodyweight": 83.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "83 Kg",
+      "indice": 0.138427
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-0",
+    "sexe": "M",
+    "birthYear": 2002,
+    "bodyweight": 93.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "93 Kg",
+      "indice": 0.130822
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-1",
+    "sexe": "M",
+    "birthYear": 2000,
+    "bodyweight": 93.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "93 Kg",
+      "indice": 0.130822
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-2",
+    "sexe": "M",
+    "birthYear": 1999,
+    "bodyweight": 93.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "93 Kg",
+      "indice": 0.130822
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-3",
+    "sexe": "M",
+    "birthYear": 1992,
+    "bodyweight": 93.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "93 Kg",
+      "indice": 0.130822
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-4",
+    "sexe": "M",
+    "birthYear": 2008,
+    "bodyweight": 74.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SJR",
+      "catPoids": "74 Kg",
+      "indice": 0.14681
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-5",
+    "sexe": "M",
+    "birthYear": 2000,
+    "bodyweight": 105.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "105 Kg",
+      "indice": 0.123465
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-6",
+    "sexe": "M",
+    "birthYear": 1994,
+    "bodyweight": 120.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "SNR",
+      "catPoids": "120 Kg",
+      "indice": 0.116246
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-7",
+    "sexe": "M",
+    "birthYear": 1976,
+    "bodyweight": 105.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "M2",
+      "catPoids": "105 Kg",
+      "indice": 0.123465
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-8",
+    "sexe": "M",
+    "birthYear": 1962,
+    "bodyweight": 83.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "M3",
+      "catPoids": "83 Kg",
+      "indice": 0.138427
+    }
+  },
+  {
+    "id": "PLATEAUBGrou-9",
+    "sexe": "M",
+    "birthYear": 1960,
+    "bodyweight": 74.0,
+    "discipline": "FA",
+    "expected": {
+      "catAge": "M3",
+      "catPoids": "74 Kg",
+      "indice": 0.14681
+    }
+  }
+]

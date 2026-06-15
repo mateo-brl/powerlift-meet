@@ -1,0 +1,22 @@
+{
+  "name": "@powerlift-meet/core",
+  "version": "0.1.0",
+  "description": "Moteur de calcul fédéral FFForce (indices IPF, catégories, niveaux, totaux, classement, ordre de passage, chargeur) — portage fidèle du modèle Excel.",
+  "license": "GPL-3.0-or-later",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc -b",
+    "clean": "rm -rf dist *.tsbuildinfo"
+  }
+}

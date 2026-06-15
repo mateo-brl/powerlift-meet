@@ -1,0 +1,9 @@
+node_modules
+dist
+dist-electron
+out
+release
+coverage
+packages/core/src/reference/*.json
+packages/core/test/fixtures/*.json
+LICENSE
