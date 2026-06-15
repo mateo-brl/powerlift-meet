@@ -20,7 +20,7 @@
     "lint": "eslint .",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "typecheck": "tsc -b packages/core packages/xlsx-reader",
+    "typecheck": "tsc -b packages/core packages/xlsx-reader && npm run typecheck --workspace apps/desktop",
     "dev": "npm run dev --workspace apps/desktop"
   },
   "devDependencies": {

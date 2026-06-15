@@ -1,0 +1,31 @@
+appId: com.mateobrl.powerliftmeet
+productName: powerlift-meet
+copyright: © Mateo Baril — GPL-3.0
+directories:
+  output: release
+  buildResources: build
+files:
+  - dist-electron/**/*
+  - '!**/*.map'
+# Les paquets du monorepo sont déjà compilés (dist/) ; on les embarque.
+extraMetadata:
+  main: dist-electron/main/index.js
+npmRebuild: false
+win:
+  target:
+    - target: nsis
+      arch: [x64]
+    - target: portable
+      arch: [x64]
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  artifactName: ${productName}-Setup-${version}.${ext}
+linux:
+  target:
+    - AppImage
+    - deb
+  category: Utility
+  maintainer: Mateo Baril
+appImage:
+  artifactName: ${productName}-${version}.${ext}
